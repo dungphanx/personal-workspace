@@ -30,3 +30,5 @@ Reservations are requests that the board approves; there is no online payment.
 1. **Which codebase carries the product forward** (prototype or platform), and what moves across.
 2. Prototype: source control remote, stable domain, Google sign-in, email verification.
 3. Platform: initialise web and mobile, build grave records and reservations, write the first ADRs.
+
+Plan and prioritised backlog: [plan.md](plan.md).

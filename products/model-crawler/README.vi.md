@@ -20,3 +20,5 @@ Nguyên tắc: chỉ dữ liệu công khai, chỉ mô hình miễn phí, có gi
 - Đưa công cụ vào quản lý phiên bản.
 - Nạp dữ liệu xuất ra vào danh mục PrintLab.
 - Quyền tải file MakerWorld và MyMiniFactory (phụ thuộc môi trường public của PrintLab để làm OAuth).
+
+Kế hoạch và backlog có ưu tiên: [plan.vi.md](plan.vi.md).

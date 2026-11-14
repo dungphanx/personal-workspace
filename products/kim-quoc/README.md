@@ -26,3 +26,5 @@ Working process, two hotlines + Facebook, rename to Kim Quoc, one-time-code logi
 - Commit the vertical promo clip and refresh its notes.
 - Submit the sitemap to Google Search Console; refresh cached social previews.
 - Rebuild the production deployment after merges.
+
+Plan and prioritised backlog: [plan.md](plan.md).

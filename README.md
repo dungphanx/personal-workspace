@@ -14,7 +14,7 @@ The product-management hub for my products: what each product is, where it stand
 | [Hoang Bao Kim](products/hoang-bao-kim/README.md) | Website and back office for a mobile wedding-catering business | Live |
 | [Model Crawler](products/model-crawler/README.md) | Collector of popular 3D-printing models for PrintLab | Internal tool |
 
-Overall status and timeline: [docs/progress.md](docs/progress.md).
+Each product folder also has a **plan** (`plan.md`). Roadmap across products: [docs/roadmap.md](docs/roadmap.md). Overall status and timeline: [docs/progress.md](docs/progress.md).
 
 ## How this repo works
 
@@ -27,7 +27,9 @@ Overall status and timeline: [docs/progress.md](docs/progress.md).
 ## Repository layout
 
 ```
-products/<product>/README.md   product page (vision, features, status, open items)
+products/<product>/README.md   product page (features, status, open items)
+products/<product>/plan.md     vision, goals, milestones, prioritised backlog (issue links)
+docs/roadmap.md                Now / Next / Later across products
 docs/progress.md               cross-product status and timeline
 docs/prd/                      designs for this repo itself
 .github/                       issue/PR templates, workflows

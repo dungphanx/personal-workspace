@@ -41,3 +41,5 @@ The identity service is product-neutral and is reused by [Evergrove](../evergrov
 - Finish the public environment; it unblocks the MyMiniFactory integration and real-HTTPS testing of USB printing.
 - Tag releases for the components that have none yet.
 - Later: email verification, Google sign-in on the public environment, publishing the mobile app, a custom domain, monitoring and backups.
+
+Plan and prioritised backlog: [plan.md](plan.md).

@@ -26,3 +26,5 @@ Redesign, SEO, labor tracking, business cards; all deployed.
 - Move the site to its own domain (work done, waiting for merge).
 - Small tab-bar alignment fix and the refreshed promo clip (not committed yet).
 - Decide whether business cards get a QR code.
+
+Plan and prioritised backlog: [plan.md](plan.md).

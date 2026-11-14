@@ -26,3 +26,5 @@ Quy trình làm việc, hai hotline + Facebook, đổi tên thành Kim Quốc, �
 - Commit clip quảng bá dọc và cập nhật ghi chú.
 - Gửi sitemap lên Google Search Console; làm mới preview đã cache trên mạng xã hội.
 - Build lại bản chạy thật sau khi merge.
+
+Kế hoạch và backlog có ưu tiên: [plan.vi.md](plan.vi.md).
