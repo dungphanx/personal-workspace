@@ -1,0 +1,19 @@
+name: Monitor
+description: Something to keep watching or re-check later
+title: "[MONITOR] "
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What to watch
+    validations:
+      required: true
+  - type: input
+    id: when
+    attributes:
+      label: Check again on
+      description: Date or trigger
+  - type: textarea
+    id: done
+    attributes:
+      label: Close when

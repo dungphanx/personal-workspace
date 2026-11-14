@@ -1,0 +1,17 @@
+name: Bug
+description: Something in the docs or tooling is wrong
+title: "[BUG] "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What is wrong
+      description: Where it is (file, section) and what it should say or do instead
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence
+      description: Command output, git log, link

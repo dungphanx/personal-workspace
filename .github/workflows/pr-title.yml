@@ -1,0 +1,23 @@
+name: PR title
+
+on:
+  pull_request:
+    types: [opened, edited, reopened, synchronize]
+
+permissions:
+  contents: read
+
+jobs:
+  title:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Title starts with an issue prefix
+        env:
+          TITLE: ${{ github.event.pull_request.title }}
+        run: |
+          if [[ "$TITLE" =~ ^\[(US|TASK|BUG|MONITOR)-[0-9]+\]\  ]]; then
+            echo "OK: $TITLE"
+          else
+            echo "::error::PR title must start with [US-n], [TASK-n], [BUG-n] or [MONITOR-n], e.g. '[TASK-10] Add PR title check'. Got: $TITLE"
+            exit 1
+          fi

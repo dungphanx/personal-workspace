@@ -1,0 +1,47 @@
+name: User story
+description: A requirement described from the user's point of view
+title: "[US] "
+body:
+  - type: dropdown
+    id: product
+    attributes:
+      label: Product
+      options:
+        - PrintLab
+        - Evergrove
+        - Kim Quoc
+        - Hoang Bao Kim
+        - Model Crawler
+        - This repo
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What hurts today, for whom, and why it matters now
+    validations:
+      required: true
+  - type: textarea
+    id: story
+    attributes:
+      label: Story
+      description: As a ..., I want ..., so that ...
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Acceptance criteria
+      placeholder: "- [ ] ..."
+    validations:
+      required: true
+  - type: textarea
+    id: out-of-scope
+    attributes:
+      label: Out of scope
+  - type: input
+    id: target
+    attributes:
+      label: Target codebase
+      description: Which product repo/component the work lands in

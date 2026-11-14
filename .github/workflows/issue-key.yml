@@ -1,0 +1,32 @@
+name: Issue key
+
+on:
+  issues:
+    types: [opened, edited, reopened]
+
+permissions:
+  issues: write
+
+jobs:
+  key:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Turn "[TYPE] title" into "[TYPE-<number>] title"
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TITLE: ${{ github.event.issue.title }}
+          NUMBER: ${{ github.event.issue.number }}
+          REPO: ${{ github.repository }}
+        run: |
+          re='^\[(US|TASK|BUG|MONITOR)(-[0-9]+)?\] *(.*)$'
+          if [[ "$TITLE" =~ $re ]]; then
+            want="[${BASH_REMATCH[1]}-${NUMBER}] ${BASH_REMATCH[3]}"
+            if [[ "$TITLE" != "$want" ]]; then
+              gh issue edit "$NUMBER" --repo "$REPO" --title "$want"
+              echo "Renamed to: $want"
+            else
+              echo "Already keyed: $TITLE"
+            fi
+          else
+            echo "::warning::Issue title has no type prefix ([US], [TASK], [BUG], [MONITOR]); use an issue template."
+          fi
