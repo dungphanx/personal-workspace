@@ -30,3 +30,5 @@ Giữ chỗ là yêu cầu để ban quản lý duyệt; không có thanh toán 
 1. **Codebase nào đi tiếp** (bản thử nghiệm hay nền tảng), và chuyển những gì sang.
 2. Bản thử nghiệm: remote quản lý mã nguồn, domain cố định, đăng nhập Google, xác minh email.
 3. Nền tảng: khởi tạo web và mobile, làm hồ sơ mộ và giữ chỗ, viết các ADR đầu tiên.
+
+Kế hoạch và backlog có ưu tiên: [plan.vi.md](plan.vi.md).

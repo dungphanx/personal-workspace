@@ -26,3 +26,5 @@ Thiết kế lại, SEO, tính tiền công, danh thiếp; tất cả đã deplo
 - Chuyển site sang domain riêng (đã làm, chờ merge).
 - Sửa nhỏ căn chỉnh thanh tab và clip quảng bá mới (chưa commit).
 - Quyết định có thêm mã QR vào danh thiếp không.
+
+Kế hoạch và backlog có ưu tiên: [plan.vi.md](plan.vi.md).

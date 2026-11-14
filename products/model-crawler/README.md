@@ -20,3 +20,5 @@ Rules: public data only, free models only, rate-limited, no paywall bypass, no r
 - Put the tool under version control.
 - Feed exported data into the PrintLab catalogue.
 - Access for MakerWorld files and MyMiniFactory (depends on PrintLab's public environment for OAuth).
+
+Plan and prioritised backlog: [plan.md](plan.md).
