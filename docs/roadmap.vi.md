@@ -2,7 +2,7 @@
 
 # Roadmap
 
-Ghi nhận ngày 2026-11-14. Bây giờ = đang làm hoặc làm ngay; Tiếp theo = sau khi phần Bây giờ xong; Sau này = cần quyết định hoặc phụ thuộc trước. Yêu cầu nằm trong các issue được link; thứ tự trong từng sản phẩm ở `products/<product>/plan.vi.md`.
+Ghi nhận ngày 2026-11-14. Bây giờ = đang làm hoặc làm ngay; Tiếp theo = sau khi phần Bây giờ xong; Sau này = cần quyết định hoặc phụ thuộc trước. Yêu cầu nằm trong các issue được link; thứ tự trong từng sản phẩm ở `products/<product>/plan.vi.md`; ưu tiên và trạng thái cập nhật trên [bảng Product hub](https://github.com/users/dungphanx/projects/1).
 
 ## Bây giờ
 

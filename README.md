@@ -14,7 +14,7 @@ The product-management hub for my products: what each product is, where it stand
 | [Hoang Bao Kim](products/hoang-bao-kim/README.md) | Website and back office for a mobile wedding-catering business | Live |
 | [Model Crawler](products/model-crawler/README.md) | Collector of popular 3D-printing models for PrintLab | Internal tool |
 
-Each product folder also has a **plan** (`plan.md`). Roadmap across products: [docs/roadmap.md](docs/roadmap.md). Overall status and timeline: [docs/progress.md](docs/progress.md).
+Each product folder also has a **plan** (`plan.md`). Roadmap across products: [docs/roadmap.md](docs/roadmap.md). Board with priority and status for every item: [Product hub](https://github.com/users/dungphanx/projects/1). Overall status and timeline: [docs/progress.md](docs/progress.md).
 
 ## How this repo works
 
