@@ -2,7 +2,7 @@
 
 # Roadmap
 
-Snapshot 2026-11-14. Now = in progress or next up; Next = after Now lands; Later = needs a decision or a dependency first. Requirements live in the linked issues; per-product order is in each `products/<product>/plan.md`.
+Snapshot 2026-11-14. Now = in progress or next up; Next = after Now lands; Later = needs a decision or a dependency first. Requirements live in the linked issues; per-product order is in each `products/<product>/plan.md`; live priority and status are on the [Product hub board](https://github.com/users/dungphanx/projects/1).
 
 ## Now
 
