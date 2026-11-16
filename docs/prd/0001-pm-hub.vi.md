@@ -34,7 +34,7 @@ Chủ sở hữu làm **product manager** cho mọi sản phẩm. Yêu cầu, ư
 - **Issue:** template có trường Product; mã kiểu Jira `[LOẠI-<số>]`; một label `project:`; mỗi giai đoạn sản phẩm một milestone (`<product> M1 – <tên>`). Khi bắt đầu làm ở repo sản phẩm, issue ghi nhánh và PR bên đó.
 - **File:** `products/<product>/README.md` (trang), `products/<product>/plan.md` (tầm nhìn, mục tiêu, các mốc, link backlog, rủi ro, quyết định còn mở), `docs/roadmap.md` (Bây giờ / Tiếp theo / Sau này). Tất cả song ngữ.
 - **Bảng:** GitHub Project "Product hub" với field Product, Priority (P0–P2), Status (Backlog, Ready, In progress, In review, Done), Target codebase.
-- **Sản phẩm:** PrintLab, Evergrove (bản thử nghiệm + nền tảng), Kim Quốc, Hoàng Bảo Kim, Model Crawler.
+- **Sản phẩm:** PrintLab, Evergrove (bản thử nghiệm + nền tảng), Kim Quốc, Hoàng Bảo Kim, Model Crawler, Hollies (thêm ngày 2026-11-16).
 
 ## Tiêu chí nghiệm thu
 - Roadmap và năm trang kế hoạch có đủ hai ngôn ngữ và qua CI.

@@ -33,7 +33,7 @@ Issue → branch → verify → pull request → review → owner approves → m
 | --- | --- |
 | Type | `type: docs`, `type: fix`, `type: chore` |
 | Area | `area: progress`, `area: workspace` |
-| Product | `project: printlab`, `project: evergrove`, `project: kim-quoc`, `project: hoang-bao-kim`, `project: model-crawler` |
+| Product | `project: printlab`, `project: evergrove`, `project: kim-quoc`, `project: hoang-bao-kim`, `project: model-crawler`, `project: hollies` |
 | Other | `snapshot-update`, `ai-reviewed`, `security: secrets-checked` |
 
 ## Writing

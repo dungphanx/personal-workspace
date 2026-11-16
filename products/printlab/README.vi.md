@@ -2,7 +2,7 @@
 
 # PrintLab
 
-Nền tảng cho người dùng máy in 3D: thư viện mô hình tham số, xem trước và tùy chỉnh 3D, tải STL, sinh G-code, in qua USB hoặc mạng, tài khoản, chia sẻ, bình luận, gắn sao và danh mục mô hình phổ biến. Ghi nhận ngày 2026-11-14.
+Nền tảng cho người dùng máy in 3D: thư viện mô hình tham số, xem trước và tùy chỉnh 3D, tải STL, sinh G-code, in qua USB hoặc mạng, tài khoản, chia sẻ, bình luận, gắn sao và danh mục mô hình phổ biến. Ghi nhận ngày 2026-11-16.
 
 ## Kiến trúc
 
@@ -34,6 +34,7 @@ Dịch vụ danh tính không gắn với sản phẩm nào và được [Evergr
 | Đăng nhập email, Google, ví Ethereum | Xong (mobile chưa có ví) |
 | CI: kiểm tra, cổng coverage, build image khi có tag release | Xong |
 | Quy trình giao hàng (spec → PR → AI review → merge → tag release) | Released 2026-11-13 |
+| Trau chuốt UX/UI website | Released 2026-11-15 (website v0.1.0) |
 | **Môi trường public** (một node cloud nhỏ, Kubernetes, HTTPS tự động, deploy từ image đã release) | **Đang làm** |
 
 ## Việc còn mở

@@ -2,7 +2,7 @@
 
 # Hoàng Bảo Kim
 
-Website và trang quản lý cho Hoàng Bảo Kim, dịch vụ tiệc cưới lưu động. Ghi nhận ngày 2026-11-14.
+Website và trang quản lý cho Hoàng Bảo Kim, dịch vụ tiệc cưới lưu động. Ghi nhận ngày 2026-11-16.
 
 - **Công nghệ:** worker serverless kèm cơ sở dữ liệu SQL ở edge; trang tĩnh được build vào worker; web app cài được, có hàng đợi khi mất mạng.
 - **Trạng thái:** đang chạy thật; tự deploy khi nhánh main thay đổi.
@@ -11,19 +11,18 @@ Website và trang quản lý cho Hoàng Bảo Kim, dịch vụ tiệc cưới l�
 
 | Phần | Tính năng |
 | --- | --- |
-| Trang khách | Dịch vụ, thực đơn có ảnh món, bản đồ chỉ đường, link gọi/Zalo, form đặt tiệc; nội dung render ở server và dữ liệu có cấu trúc cho tìm kiếm và xem trước trên mạng xã hội |
-| Quản lý | Tổng quan, khách, thực đơn, cài đặt |
+| Trang khách | Dịch vụ, thực đơn có ảnh món, bản đồ chỉ đường, link gọi/Zalo, form đặt tiệc, mục hỏi đáp chủ quán tự sửa; nội dung render ở server và dữ liệu có cấu trúc cho tìm kiếm và xem trước trên mạng xã hội; tải nhanh trên điện thoại |
+| Quản lý | Tổng quan, khách, thực đơn, cài đặt; thống kê khách liên hệ theo nguồn (gọi, Zalo, bản đồ, báo giá) |
 | Nhân công | Phiếu công theo tiệc, danh bạ người phụ, nghề và đơn giá, tổng công, tiền công, đã trả, còn nợ theo tháng |
 | Danh thiếp | Danh thiếp hai mặt sẵn sàng in và ảnh giới thiệu cho mạng xã hội, sinh ngay trong trình duyệt từ cài đặt và ảnh món |
 | Quảng bá | Clip giới thiệu dọc về các tính năng chính |
 
 ## Đã giao
 
-Thiết kế lại, SEO, tính tiền công, danh thiếp; tất cả đã deploy.
+Thiết kế lại, SEO, tính tiền công, danh thiếp, domain riêng, ảnh chia sẻ ngang cho Facebook/Zalo, mục hỏi đáp chủ quán tự sửa, trang chủ nhanh hơn trên điện thoại, báo ngay cho công cụ tìm kiếm (IndexNow), đo khách liên hệ theo nguồn, phông chữ tự host và ảnh bìa nhẹ hơn; tất cả đã deploy.
 
 ## Việc còn mở
 
-- Chuyển site sang domain riêng (đã làm, chờ merge).
 - Sửa nhỏ căn chỉnh thanh tab và clip quảng bá mới (chưa commit).
 - Quyết định có thêm mã QR vào danh thiếp không.
 

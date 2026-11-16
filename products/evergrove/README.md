@@ -2,13 +2,13 @@
 
 # Evergrove
 
-Cemetery management for families, cemetery boards and the platform owner: find a grave on a map or in 3D, see free plots and reference prices, request a reservation, and manage the cemetery layout. Snapshot 2026-11-14.
+Cemetery management for families, cemetery boards and the platform owner: find a grave on a map or in 3D, see free plots and reference prices, request a reservation, and manage the cemetery layout. Snapshot 2026-11-16.
 
 ## One product, two codebases
 
 | Codebase | What it is | Status |
 | --- | --- | --- |
-| **Prototype** (Node + PostgreSQL, Kubernetes) | Working multi-cemetery platform, uses the [PrintLab](../printlab/README.md) identity service for sign-in | Feature-complete prototype, runs on a personal machine |
+| **Prototype** (Node + PostgreSQL, Kubernetes) | Working multi-cemetery platform, uses the [PrintLab](../printlab/README.md) identity service for sign-in | Feature-complete prototype, hardened after a review on 2026-11-15 (access checks, input validation, data-safety and locking fixes); runs on a personal machine |
 | **Platform** (Go + PostgreSQL + Redis + S3) | Intended production platform with OpenAPI contract and 100% test-coverage gate | Backend skeleton; web and mobile not started |
 
 ## Audiences and features (prototype)

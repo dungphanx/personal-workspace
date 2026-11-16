@@ -33,7 +33,7 @@ Issue → nhánh → verify → pull request → review → chủ sở hữu app
 | --- | --- |
 | Loại | `type: docs`, `type: fix`, `type: chore` |
 | Khu vực | `area: progress`, `area: workspace` |
-| Sản phẩm | `project: printlab`, `project: evergrove`, `project: kim-quoc`, `project: hoang-bao-kim`, `project: model-crawler` |
+| Sản phẩm | `project: printlab`, `project: evergrove`, `project: kim-quoc`, `project: hoang-bao-kim`, `project: model-crawler`, `project: hollies` |
 | Khác | `snapshot-update`, `ai-reviewed`, `security: secrets-checked` |
 
 ## Viết tài liệu

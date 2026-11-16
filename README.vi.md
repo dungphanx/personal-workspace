@@ -13,6 +13,7 @@ Trung tâm quản lý sản phẩm của tôi: mỗi sản phẩm là gì, đang
 | [Kim Quốc](products/kim-quoc/README.vi.md) | Website và trang quản lý cho cửa hàng cửa cuốn | Đang chạy thật |
 | [Hoàng Bảo Kim](products/hoang-bao-kim/README.vi.md) | Website và trang quản lý cho dịch vụ tiệc cưới lưu động | Đang chạy thật |
 | [Model Crawler](products/model-crawler/README.vi.md) | Công cụ thu thập mô hình in 3D phổ biến cho PrintLab | Công cụ nội bộ |
+| [Hollies](products/hollies/README.vi.md) | App tự cải thiện bản thân: ghi thời gian, top 3 mỗi ngày, thói quen, giữ nhịp | Đã có MVP; web app đã phát hành |
 
 Mỗi thư mục sản phẩm còn có **kế hoạch** (`plan.vi.md`). Roadmap chung: [docs/roadmap.vi.md](docs/roadmap.vi.md). Bảng ưu tiên và trạng thái mọi việc: [Product hub](https://github.com/users/dungphanx/projects/1). Trạng thái chung và dòng thời gian: [docs/progress.vi.md](docs/progress.vi.md).
 
