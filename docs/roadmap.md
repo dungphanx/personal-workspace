@@ -2,7 +2,7 @@
 
 # Roadmap
 
-Snapshot 2026-11-16. Now = in progress or next up; Next = after Now lands; Later = needs a decision or a dependency first. Requirements live in the linked issues; per-product order is in each `products/<product>/plan.md`; live priority and status are on the [Product hub board](https://github.com/users/dungphanx/projects/1).
+Snapshot 2026-11-17. Now = in progress or next up; Next = after Now lands; Later = needs a decision or a dependency first. Requirements live in the linked issues; per-product order is in each `products/<product>/plan.md`; live priority and status are on the [Product hub board](https://github.com/users/dungphanx/projects/1).
 
 ## Now
 
@@ -12,7 +12,7 @@ Snapshot 2026-11-16. Now = in progress or next up; Next = after Now lands; Later
 | Evergrove | [TASK-5](https://github.com/dungphanx/personal-workspace/issues/5) Choose the codebase to carry forward | Every other Evergrove item depends on it |
 | Kim Quoc | [TASK-11](https://github.com/dungphanx/personal-workspace/issues/11) Merge coverage work, [TASK-12](https://github.com/dungphanx/personal-workspace/issues/12) protect main | Live product: changes must be tested and reviewed |
 | Hoang Bao Kim | [BUG-16](https://github.com/dungphanx/personal-workspace/issues/16) Tab-bar alignment, [TASK-17](https://github.com/dungphanx/personal-workspace/issues/17) promo clip | Own domain is live; both changes are made but not committed yet |
-| Hollies | Rename to Hollies; recovery mode | The name must match before the app is shared; recovery is the next step of the daily loop |
+| Hollies | Health habits: progress vs the last 4 weeks, weight log, counters in the score; recovery mode | Counters and PIN lock just landed; these complete the health-habits set and the daily loop |
 
 ## Next
 
