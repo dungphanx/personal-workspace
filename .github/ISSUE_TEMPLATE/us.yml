@@ -12,6 +12,7 @@ body:
         - Kim Quoc
         - Hoang Bao Kim
         - Model Crawler
+        - Hollies
         - This repo
     validations:
       required: true

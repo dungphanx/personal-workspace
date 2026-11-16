@@ -2,7 +2,7 @@
 
 # Kim Quốc
 
-Website và trang quản lý cho Kim Quốc, cửa hàng lắp đặt và sửa chữa cửa cuốn. Ghi nhận ngày 2026-11-14.
+Website và trang quản lý cho Kim Quốc, cửa hàng lắp đặt và sửa chữa cửa cuốn. Ghi nhận ngày 2026-11-16.
 
 - **Công nghệ:** một server Node không dùng thư viện ngoài, SQLite có sẵn; chạy bằng Docker.
 - **Trạng thái:** đang chạy thật.
@@ -17,7 +17,7 @@ Website và trang quản lý cho Kim Quốc, cửa hàng lắp đặt và sửa 
 
 ## Đã giao
 
-Quy trình làm việc, hai hotline + Facebook, đổi tên thành Kim Quốc, đăng nhập bằng mã một lần, dọn code, đăng nhập bằng mã, sửa hướng dẫn, README, SEO (sitemap, robots, thẻ chia sẻ, dữ liệu có cấu trúc, cache).
+Quy trình làm việc, hai hotline + Facebook, đổi tên thành Kim Quốc, đăng nhập bằng mã một lần, dọn code, đăng nhập bằng mã, sửa hướng dẫn, README, SEO (sitemap, robots, thẻ chia sẻ, dữ liệu có cấu trúc, cache), SEO nâng cao (địa chỉ site chuẩn, chặn index trang riêng, trang 404 đúng chuẩn, chuyển hướng, danh mục dịch vụ trong dữ liệu có cấu trúc, nén gzip), truyền địa chỉ site vào bản chạy thật.
 
 ## Việc còn mở
 
@@ -25,6 +25,5 @@ Quy trình làm việc, hai hotline + Facebook, đổi tên thành Kim Quốc, �
 - Khóa nhánh main của repo code.
 - Commit clip quảng bá dọc và cập nhật ghi chú.
 - Gửi sitemap lên Google Search Console; làm mới preview đã cache trên mạng xã hội.
-- Build lại bản chạy thật sau khi merge.
 
 Kế hoạch và backlog có ưu tiên: [plan.vi.md](plan.vi.md).

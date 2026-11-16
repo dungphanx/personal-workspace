@@ -2,7 +2,7 @@
 
 # PrintLab
 
-A platform for 3D-printer users: a parametric model library, 3D preview and customisation, STL download, G-code generation, printing over USB or the network, accounts, sharing, comments, stars and a catalogue of popular models. Snapshot 2026-11-14.
+A platform for 3D-printer users: a parametric model library, 3D preview and customisation, STL download, G-code generation, printing over USB or the network, accounts, sharing, comments, stars and a catalogue of popular models. Snapshot 2026-11-16.
 
 ## Architecture
 
@@ -34,12 +34,13 @@ The identity service is product-neutral and is reused by [Evergrove](../evergrov
 | Sign-in with email, Google, Ethereum wallet | Done (mobile: no wallet yet) |
 | CI with checks, coverage gate, images built on release tags | Done |
 | Delivery workflow (spec → PR → AI review → merge → release tag) | Released 2026-11-13 |
+| Website UX/UI polish | Released 2026-11-15 (website v0.1.0) |
 | **Public environment** (single small cloud node, Kubernetes, automatic HTTPS, deploy from released images) | **In progress** |
 
 ## Open items
 
 - Finish the public environment; it unblocks the MyMiniFactory integration and real-HTTPS testing of USB printing.
-- Tag releases for the components that have none yet.
+- Tag releases for the API, identity service and mobile app (website and deploy are at v0.1.0).
 - Later: email verification, Google sign-in on the public environment, publishing the mobile app, a custom domain, monitoring and backups.
 
 Plan and prioritised backlog: [plan.md](plan.md).

@@ -2,7 +2,7 @@
 
 # Model Crawler
 
-An internal tool that collects popular and unusual 3D-printing models to seed the [PrintLab](../printlab/README.md) catalogue. Python, no browser, results in SQLite with JSON/CSV export. Snapshot 2026-11-14.
+An internal tool that collects popular and unusual 3D-printing models to seed the [PrintLab](../printlab/README.md) catalogue. Python, no browser, results in SQLite with JSON/CSV export. Snapshot 2026-11-16.
 
 ## Sources
 

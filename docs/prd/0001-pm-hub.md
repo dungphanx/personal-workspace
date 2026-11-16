@@ -34,7 +34,7 @@ The owner works as the **product manager** for every product. Requirements, prio
 - **Issues:** templates with a Product field; Jira-style keys `[TYPE-<number>]`; one `project:` label; a milestone per product phase (`<product> M1 – <name>`). When work starts in a product repository the issue records the branch and PR there.
 - **Files:** `products/<product>/README.md` (page), `products/<product>/plan.md` (vision, goals, milestones, backlog links, risks, open decisions), `docs/roadmap.md` (Now / Next / Later). All bilingual.
 - **Board:** GitHub Project "Product hub" with fields Product, Priority (P0–P2), Status (Backlog, Ready, In progress, In review, Done), Target codebase.
-- **Products:** PrintLab, Evergrove (prototype + platform), Kim Quoc, Hoang Bao Kim, Model Crawler.
+- **Products:** PrintLab, Evergrove (prototype + platform), Kim Quoc, Hoang Bao Kim, Model Crawler, Hollies (added 2026-11-16).
 
 ## Acceptance criteria
 - Roadmap and five plan pages exist in both languages and pass CI.
