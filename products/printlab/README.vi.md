@@ -40,7 +40,7 @@ Dịch vụ danh tính không gắn với sản phẩm nào và được [Evergr
 ## Việc còn mở
 
 - Hoàn tất môi trường public; nó mở khóa tích hợp MyMiniFactory và việc thử in USB trên HTTPS thật.
-- Tag release cho các thành phần chưa có.
+- Tag release cho API, dịch vụ danh tính và ứng dụng mobile (website và deploy đã có v0.1.0).
 - Sau này: xác minh email, đăng nhập Google trên môi trường public, phát hành app mobile, domain riêng, giám sát và sao lưu.
 
 Kế hoạch và backlog có ưu tiên: [plan.vi.md](plan.vi.md).
