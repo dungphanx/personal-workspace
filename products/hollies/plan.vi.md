@@ -2,7 +2,7 @@
 
 # Hollies – kế hoạch
 
-Ghi nhận ngày 2026-11-16. Backlog chi tiết nằm ở repo riêng (private) của sản phẩm; trang này giữ định hướng ở mức sản phẩm. Trang sản phẩm: [README.vi.md](README.vi.md).
+Ghi nhận ngày 2026-11-17. Backlog chi tiết nằm ở repo riêng (private) của sản phẩm; trang này giữ định hướng ở mức sản phẩm. Trang sản phẩm: [README.vi.md](README.vi.md).
 
 ## Tầm nhìn
 
@@ -24,7 +24,8 @@ Người bạn hằng ngày giúp một người trung thực với thời gian,
 | Mốc | Phạm vi | Trạng thái |
 | --- | --- | --- |
 | M1 – MVP | Ghi thời gian, top 3, thói quen, thống kê, vòng lặp hằng ngày (tự đánh giá, buổi sáng, tổng kết tuần, nhắc nhở), web app | Xong |
-| M2 – Quay lại nhịp | Đổi tên thành Hollies, chế độ phục hồi, sửa lỗi nhỏ cho ổn định, xác nhận mục tiêu thói quen | Đang làm |
+| M2 – Quay lại nhịp | Đổi tên thành Hollies và sửa trải nghiệm (xong), chế độ phục hồi, sửa lỗi nhỏ cho ổn định, xác nhận mục tiêu thói quen | Đang làm |
+| M2b – Thói quen sức khoẻ | Bộ đếm và khoá PIN (xong), so tiến bộ với 4 tuần trước, ghi cân nặng, đưa bộ đếm vào điểm đúng nhịp | Đang làm |
 | M3 – App native | Mã định danh kho ứng dụng, thông báo thật trên Android và iOS, bản lên kho | Sau này |
 
 ## Rủi ro

@@ -2,7 +2,7 @@
 
 # Tổng quan tiến độ
 
-Ghi nhận ngày **2026-11-16**. Chi tiết ở trang từng sản phẩm.
+Ghi nhận ngày **2026-11-17**. Chi tiết ở trang từng sản phẩm.
 
 ## Bảng nhanh
 
@@ -13,7 +13,7 @@ Ghi nhận ngày **2026-11-16**. Chi tiết ở trang từng sản phẩm.
 | [Kim Quốc](../products/kim-quoc/README.vi.md) | Đang chạy thật | SEO nâng cao; sửa địa chỉ site ở bản chạy thật | Merge phần coverage; khóa nhánh; clip quảng bá; Search Console |
 | [Hoàng Bảo Kim](../products/hoang-bao-kim/README.vi.md) | Đang chạy thật | Domain riêng đã chạy; hỏi đáp, ảnh chia sẻ, trang điện thoại nhanh hơn, IndexNow, đo khách liên hệ, phông tự host | Sửa nhỏ giao diện; clip quảng bá; quyết định QR |
 | [Model Crawler](../products/model-crawler/README.vi.md) | Công cụ nội bộ | Bộ thu thập Printables và MakerWorld | Quản lý phiên bản; nạp danh mục PrintLab |
-| [Hollies](../products/hollies/README.vi.md) | Đã có MVP; web app đã phát hành | Vòng lặp hằng ngày: tự đánh giá, buổi sáng, tổng kết tuần, nhắc nhở; hướng dẫn; icon web app | Đổi tên thành Hollies (đang review); chế độ phục hồi; thông báo native |
+| [Hollies](../products/hollies/README.vi.md) | Đã có MVP; web app đã phát hành | Đã đổi tên thành Hollies (đang chạy); sửa trải nghiệm; bộ đếm có khoá PIN; test trên trình duyệt trong CI | Thói quen sức khoẻ (so với 4 tuần trước, ghi cân nặng); chế độ phục hồi; thông báo native |
 
 ## Dòng thời gian
 
@@ -22,7 +22,8 @@ Ghi nhận ngày **2026-11-16**. Chi tiết ở trang từng sản phẩm.
 | 2026-11-13 | PrintLab tách thành các thành phần với quy trình giao hàng; thiết kế và làm bản thử nghiệm Evergrove; viết spec môi trường public cho PrintLab |
 | 2026-11-14 | Hoàng Bảo Kim: deploy SEO, tính tiền công, danh thiếp; domain riêng chạy; ảnh chia sẻ và hỏi đáp. Kim Quốc: domain, đăng nhập mã một lần, đổi tên, SEO. Tạo trung tâm này |
 | 2026-11-15 | Hoàng Bảo Kim: trang điện thoại nhanh hơn, IndexNow, đo khách liên hệ, phông tự host. Kim Quốc: SEO nâng cao và sửa địa chỉ site ở bản chạy thật. PrintLab: website v0.1.0 (trau chuốt UX/UI). Hoàn thiện bản thử nghiệm Evergrove. Bắt đầu Hollies: từ khung app đến tự đánh giá buổi tối |
-| 2026-11-16 | Hollies: buổi sáng, tổng kết tuần, nhắc nhở, hướng dẫn, web app. Thêm Hollies vào trung tâm này |
+| 2026-11-16 | Hollies: buổi sáng, tổng kết tuần, nhắc nhở, hướng dẫn, web app, đổi tên thành Hollies, sửa trải nghiệm, bộ đếm và khoá PIN. Thêm Hollies vào trung tâm này |
+| 2026-11-17 | Hollies: sửa bộ đếm trên web; chạy test trên trình duyệt thật trong CI. Các sản phẩm khác không có thay đổi |
 
 ## Quyết định chờ chủ sở hữu
 

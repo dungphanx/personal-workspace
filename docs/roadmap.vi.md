@@ -2,7 +2,7 @@
 
 # Roadmap
 
-Ghi nhận ngày 2026-11-16. Bây giờ = đang làm hoặc làm ngay; Tiếp theo = sau khi phần Bây giờ xong; Sau này = cần quyết định hoặc phụ thuộc trước. Yêu cầu nằm trong các issue được link; thứ tự trong từng sản phẩm ở `products/<product>/plan.vi.md`; ưu tiên và trạng thái cập nhật trên [bảng Product hub](https://github.com/users/dungphanx/projects/1).
+Ghi nhận ngày 2026-11-17. Bây giờ = đang làm hoặc làm ngay; Tiếp theo = sau khi phần Bây giờ xong; Sau này = cần quyết định hoặc phụ thuộc trước. Yêu cầu nằm trong các issue được link; thứ tự trong từng sản phẩm ở `products/<product>/plan.vi.md`; ưu tiên và trạng thái cập nhật trên [bảng Product hub](https://github.com/users/dungphanx/projects/1).
 
 ## Bây giờ
 
@@ -12,7 +12,7 @@ Ghi nhận ngày 2026-11-16. Bây giờ = đang làm hoặc làm ngay; Tiếp th
 | Evergrove | [TASK-5](https://github.com/dungphanx/personal-workspace/issues/5) Chọn codebase đi tiếp | Mọi việc khác của Evergrove phụ thuộc vào nó |
 | Kim Quốc | [TASK-11](https://github.com/dungphanx/personal-workspace/issues/11) Merge phần coverage, [TASK-12](https://github.com/dungphanx/personal-workspace/issues/12) khóa main | Sản phẩm đang chạy thật: thay đổi phải được test và review |
 | Hoàng Bảo Kim | [BUG-16](https://github.com/dungphanx/personal-workspace/issues/16) Căn chỉnh thanh tab, [TASK-17](https://github.com/dungphanx/personal-workspace/issues/17) clip quảng bá | Domain riêng đã chạy; hai thay đổi đã làm nhưng chưa commit |
-| Hollies | Đổi tên thành Hollies; chế độ phục hồi | Tên phải thống nhất trước khi chia sẻ app; phục hồi là bước tiếp theo của vòng lặp hằng ngày |
+| Hollies | Thói quen sức khoẻ: so với 4 tuần trước, ghi cân nặng, đưa bộ đếm vào điểm; chế độ phục hồi | Bộ đếm và khoá PIN vừa xong; các việc này hoàn thiện nhóm thói quen sức khoẻ và vòng lặp hằng ngày |
 
 ## Tiếp theo
 

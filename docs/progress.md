@@ -2,7 +2,7 @@
 
 # Progress overview
 
-Snapshot **2026-11-16**. Details on each product page.
+Snapshot **2026-11-17**. Details on each product page.
 
 ## At a glance
 
@@ -13,7 +13,7 @@ Snapshot **2026-11-16**. Details on each product page.
 | [Kim Quoc](../products/kim-quoc/README.md) | Live | Advanced SEO; site address fixed in production | Coverage work to merge; branch protection; promo clip; Search Console |
 | [Hoang Bao Kim](../products/hoang-bao-kim/README.md) | Live | Own domain live; FAQ, share image, faster mobile pages, IndexNow, contact tracking, self-hosted fonts | Small UI fix; promo clip; QR decision |
 | [Model Crawler](../products/model-crawler/README.md) | Internal tool | Printables and MakerWorld collectors | Version control; feed PrintLab catalogue |
-| [Hollies](../products/hollies/README.md) | MVP built; web app published | Daily loop: check-in, morning, weekly review, nudges; user guide; web app icon | Rename to Hollies (in review); recovery mode; native notifications |
+| [Hollies](../products/hollies/README.md) | MVP built; web app published | Renamed to Hollies (live); UX fixes; counters with PIN lock; browser tests in CI | Health habits (progress vs last 4 weeks, weight log); recovery mode; native notifications |
 
 ## Timeline
 
@@ -22,7 +22,8 @@ Snapshot **2026-11-16**. Details on each product page.
 | 2026-11-13 | PrintLab split into components with a delivery workflow; Evergrove prototype designed and built; PrintLab public-environment spec written |
 | 2026-11-14 | Hoang Bao Kim: SEO, labor tracking, business cards deployed; own domain live; share image and FAQ. Kim Quoc: domain, one-time-code login, rename, SEO. This hub created |
 | 2026-11-15 | Hoang Bao Kim: faster mobile pages, IndexNow, contact tracking, self-hosted fonts. Kim Quoc: advanced SEO and production site-address fix. PrintLab: website v0.1.0 (UX/UI polish). Evergrove prototype hardened. Hollies started: scaffold to evening check-in |
-| 2026-11-16 | Hollies: morning, weekly review, nudges, user guide, web app. Hollies added to this hub |
+| 2026-11-16 | Hollies: morning, weekly review, nudges, user guide, web app, rename to Hollies, UX fixes, counters and PIN lock. Hollies added to this hub |
+| 2026-11-17 | Hollies: counters fixed on the web; tests run in a real browser in CI. No changes in the other products |
 
 ## Decisions waiting for the owner
 
