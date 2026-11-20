@@ -2,7 +2,7 @@
 
 # PrintLab – plan
 
-Snapshot 2026-11-16. Requirements live in the linked issues; this page only orders them. Product page: [README.md](README.md).
+Snapshot 2026-11-20. Requirements live in the linked issues; this page only orders them. Product page: [README.md](README.md).
 
 ## Vision
 
@@ -34,6 +34,21 @@ The easiest way to find, customise and print 3D models, from the browser or the 
 | --- | --- |
 | P2 | [US-4](https://github.com/dungphanx/personal-workspace/issues/4) Popular MyMiniFactory models in the catalogue |
 | P2 | [US-20](https://github.com/dungphanx/personal-workspace/issues/20) Catalogue seeded from Model Crawler exports (shared with Model Crawler) |
+
+### Next: printing workflow and community (no milestone yet)
+
+Ideas researched on 2026-11-20 from other model libraries and printer tools. Milestones are set when the public environment is done.
+
+| Priority | Item |
+| --- | --- |
+| P1 | [US-29](https://github.com/dungphanx/personal-workspace/issues/29) Export a customised model as 3MF and open it in your own slicer |
+| P2 | [US-30](https://github.com/dungphanx/personal-workspace/issues/30) Decide on direct printing to closed-firmware printers (Anycubic Kobra X) |
+| P2 | [US-31](https://github.com/dungphanx/personal-workspace/issues/31) Tested print profiles per printer and filament |
+| P2 | [US-33](https://github.com/dungphanx/personal-workspace/issues/33) Richer studio parameters and user-published parametric models |
+| P2 | [US-35](https://github.com/dungphanx/personal-workspace/issues/35) Print history, queue and cost per print |
+| P2 | [US-36](https://github.com/dungphanx/personal-workspace/issues/36) Getting-started guide and printer setup wizard in the product |
+| Later | [US-32](https://github.com/dungphanx/personal-workspace/issues/32) Remixes and "I made this" photos |
+| Later | [US-34](https://github.com/dungphanx/personal-workspace/issues/34) Filament spool tracking |
 
 ## Risks
 
