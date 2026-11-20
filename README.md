@@ -15,7 +15,7 @@ The product-management hub for my products: what each product is, where it stand
 | [Model Crawler](products/model-crawler/README.md) | Collector of popular 3D-printing models for PrintLab | Internal tool |
 | [Hollies](products/hollies/README.md) | Personal self-improvement app: time log, daily top 3, habits, staying on track | MVP built; web app published |
 
-Each product folder also has a **plan** (`plan.md`). Roadmap across products: [docs/roadmap.md](docs/roadmap.md). Board with priority and status for every item: [Product hub](https://github.com/users/dungphanx/projects/1). Overall status and timeline: [docs/progress.md](docs/progress.md).
+Each product folder also has a **plan** (`plan.md`). Roadmap across products: [docs/roadmap.md](docs/roadmap.md). Priority and status for every item are tracked on an internal board (private, not visible to the public). Overall status and timeline: [docs/progress.md](docs/progress.md).
 
 ## How this repo works
 
