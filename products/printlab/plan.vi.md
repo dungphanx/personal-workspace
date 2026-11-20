@@ -2,7 +2,7 @@
 
 # PrintLab – kế hoạch
 
-Ghi nhận ngày 2026-11-16. Yêu cầu nằm trong các issue được link; trang này chỉ sắp thứ tự. Trang sản phẩm: [README.vi.md](README.vi.md).
+Ghi nhận ngày 2026-11-20. Yêu cầu nằm trong các issue được link; trang này chỉ sắp thứ tự. Trang sản phẩm: [README.vi.md](README.vi.md).
 
 ## Tầm nhìn
 
@@ -34,6 +34,21 @@ Cách dễ nhất để tìm, tùy chỉnh và in mô hình 3D, từ trình duy�
 | --- | --- |
 | P2 | [US-4](https://github.com/dungphanx/personal-workspace/issues/4) Mô hình phổ biến từ MyMiniFactory trong danh mục |
 | P2 | [US-20](https://github.com/dungphanx/personal-workspace/issues/20) Danh mục nạp từ dữ liệu Model Crawler (chung với Model Crawler) |
+
+### Tiếp theo: quy trình in và cộng đồng (chưa gắn mốc)
+
+Ý tưởng tìm hiểu ngày 2026-11-20 từ các thư viện mô hình và công cụ máy in khác. Gắn mốc khi xong môi trường public.
+
+| Ưu tiên | Việc |
+| --- | --- |
+| P1 | [US-29](https://github.com/dungphanx/personal-workspace/issues/29) Xuất mô hình đã tùy chỉnh ra 3MF và mở trong slicer của mình |
+| P2 | [US-30](https://github.com/dungphanx/personal-workspace/issues/30) Quyết định có in thẳng sang máy firmware đóng (Anycubic Kobra X) không |
+| P2 | [US-31](https://github.com/dungphanx/personal-workspace/issues/31) Hồ sơ in đã thử theo máy và loại nhựa |
+| P2 | [US-33](https://github.com/dungphanx/personal-workspace/issues/33) Tham số studio phong phú hơn, người dùng đăng mẫu tham số |
+| P2 | [US-35](https://github.com/dungphanx/personal-workspace/issues/35) Lịch sử in, hàng đợi và chi phí mỗi bản in |
+| P2 | [US-36](https://github.com/dungphanx/personal-workspace/issues/36) Hướng dẫn người mới và trình thêm máy in ngay trong sản phẩm |
+| Sau | [US-32](https://github.com/dungphanx/personal-workspace/issues/32) Remix và ảnh "Tôi đã in" |
+| Sau | [US-34](https://github.com/dungphanx/personal-workspace/issues/34) Theo dõi cuộn nhựa |
 
 ## Rủi ro
 
