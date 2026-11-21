@@ -2,7 +2,7 @@
 
 # Kim Quốc – kế hoạch
 
-Ghi nhận ngày 2026-11-16. Yêu cầu nằm trong các issue được link; trang này chỉ sắp thứ tự. Trang sản phẩm: [README.vi.md](README.vi.md).
+Ghi nhận ngày 2026-11-22. Yêu cầu nằm trong các issue được link; trang này chỉ sắp thứ tự. Trang sản phẩm: [README.vi.md](README.vi.md).
 
 ## Tầm nhìn
 
@@ -24,10 +24,10 @@ Khách tìm thấy cửa hàng và đặt lịch trong một phút; cửa hàng 
 
 | Ưu tiên | Việc |
 | --- | --- |
-| P0 | [TASK-11](https://github.com/dungphanx/personal-workspace/issues/11) Merge phần nâng coverage |
+| Xong | [TASK-11](https://github.com/dungphanx/personal-workspace/issues/11) Merge phần nâng coverage |
 | P0 | [TASK-12](https://github.com/dungphanx/personal-workspace/issues/12) Khóa nhánh main |
 | P1 | [TASK-13](https://github.com/dungphanx/personal-workspace/issues/13) Search Console và preview mạng xã hội |
-| P2 | [TASK-14](https://github.com/dungphanx/personal-workspace/issues/14) Commit clip quảng bá |
+| Xong | [TASK-14](https://github.com/dungphanx/personal-workspace/issues/14) Commit clip quảng bá |
 
 ## Rủi ro
 

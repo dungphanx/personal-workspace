@@ -2,7 +2,7 @@
 
 # Hollies – kế hoạch
 
-Ghi nhận ngày 2026-11-17. Backlog chi tiết nằm ở repo riêng (private) của sản phẩm; trang này giữ định hướng ở mức sản phẩm. Trang sản phẩm: [README.vi.md](README.vi.md).
+Ghi nhận ngày 2026-11-22. Backlog chi tiết nằm ở repo riêng (private) của sản phẩm; trang này giữ định hướng ở mức sản phẩm. Trang sản phẩm: [README.vi.md](README.vi.md).
 
 ## Tầm nhìn
 

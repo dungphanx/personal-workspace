@@ -2,7 +2,7 @@
 
 # Model Crawler
 
-Công cụ nội bộ thu thập các mô hình in 3D phổ biến và độc đáo để nạp vào danh mục của [PrintLab](../printlab/README.vi.md). Python, không cần trình duyệt, lưu SQLite và xuất JSON/CSV. Ghi nhận ngày 2026-11-16.
+Công cụ nội bộ thu thập các mô hình in 3D phổ biến và độc đáo để nạp vào danh mục của [PrintLab](../printlab/README.vi.md). Python, không cần trình duyệt, lưu SQLite và xuất JSON/CSV. Ghi nhận ngày 2026-11-22.
 
 ## Nguồn
 
@@ -17,7 +17,7 @@ Nguyên tắc: chỉ dữ liệu công khai, chỉ mô hình miễn phí, có gi
 
 ## Việc còn mở
 
-- Đưa công cụ vào quản lý phiên bản.
+- Đã bắt đầu quản lý phiên bản ở máy (2026-11-18); còn thêm remote chung và quy trình review.
 - Nạp dữ liệu xuất ra vào danh mục PrintLab.
 - Quyền tải file MakerWorld và MyMiniFactory (phụ thuộc môi trường public của PrintLab để làm OAuth).
 

@@ -2,7 +2,7 @@
 
 # Kim Quoc – plan
 
-Snapshot 2026-11-16. Requirements live in the linked issues; this page only orders them. Product page: [README.md](README.md).
+Snapshot 2026-11-22. Requirements live in the linked issues; this page only orders them. Product page: [README.md](README.md).
 
 ## Vision
 
@@ -24,10 +24,10 @@ Customers find the shop and book in a minute; the shop runs its jobs from a phon
 
 | Priority | Item |
 | --- | --- |
-| P0 | [TASK-11](https://github.com/dungphanx/personal-workspace/issues/11) Merge the branch-coverage work |
+| Done | [TASK-11](https://github.com/dungphanx/personal-workspace/issues/11) Merge the branch-coverage work |
 | P0 | [TASK-12](https://github.com/dungphanx/personal-workspace/issues/12) Protect the main branch |
 | P1 | [TASK-13](https://github.com/dungphanx/personal-workspace/issues/13) Search Console and social previews |
-| P2 | [TASK-14](https://github.com/dungphanx/personal-workspace/issues/14) Commit the promo clip |
+| Done | [TASK-14](https://github.com/dungphanx/personal-workspace/issues/14) Commit the promo clip |
 
 ## Risks
 

@@ -2,7 +2,7 @@
 
 # Hollies – plan
 
-Snapshot 2026-11-17. The detailed backlog lives in the product's own (private) repository; this page keeps the product-level direction. Product page: [README.md](README.md).
+Snapshot 2026-11-22. The detailed backlog lives in the product's own (private) repository; this page keeps the product-level direction. Product page: [README.md](README.md).
 
 ## Vision
 

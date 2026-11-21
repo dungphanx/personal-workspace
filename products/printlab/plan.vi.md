@@ -41,14 +41,14 @@ Cách dễ nhất để tìm, tùy chỉnh và in mô hình 3D, từ trình duy�
 
 | Ưu tiên | Việc |
 | --- | --- |
-| P1 | [US-29](https://github.com/dungphanx/personal-workspace/issues/29) Xuất mô hình đã tùy chỉnh ra 3MF và mở trong slicer của mình |
+| Xong | [US-29](https://github.com/dungphanx/personal-workspace/issues/29) Xuất mô hình đã tùy chỉnh ra 3MF và mở trong slicer của mình (website v0.2.0) |
 | P2 | [US-30](https://github.com/dungphanx/personal-workspace/issues/30) Quyết định có in thẳng sang máy firmware đóng (Anycubic Kobra X) không |
-| P2 | [US-31](https://github.com/dungphanx/personal-workspace/issues/31) Hồ sơ in đã thử theo máy và loại nhựa |
-| P2 | [US-33](https://github.com/dungphanx/personal-workspace/issues/33) Tham số studio phong phú hơn, người dùng đăng mẫu tham số |
-| P2 | [US-35](https://github.com/dungphanx/personal-workspace/issues/35) Lịch sử in, hàng đợi và chi phí mỗi bản in |
-| P2 | [US-36](https://github.com/dungphanx/personal-workspace/issues/36) Hướng dẫn người mới và trình thêm máy in ngay trong sản phẩm |
-| Sau | [US-32](https://github.com/dungphanx/personal-workspace/issues/32) Remix và ảnh "Tôi đã in" |
-| Sau | [US-34](https://github.com/dungphanx/personal-workspace/issues/34) Theo dõi cuộn nhựa |
+| Xong | [US-31](https://github.com/dungphanx/personal-workspace/issues/31) Hồ sơ in đã thử theo máy và loại nhựa (website v0.3.0) |
+| P2 | [US-33](https://github.com/dungphanx/personal-workspace/issues/33) Tham số studio phong phú hơn (xong), người dùng đăng mẫu tham số (còn mở) |
+| P2 | [US-35](https://github.com/dungphanx/personal-workspace/issues/35) Lịch sử in và chi phí (xong), hàng đợi in (còn mở) |
+| Xong | [US-36](https://github.com/dungphanx/personal-workspace/issues/36) Hướng dẫn người mới và trình thêm máy in ngay trong sản phẩm |
+| Xong | [US-32](https://github.com/dungphanx/personal-workspace/issues/32) Remix và ảnh "Tôi đã in" |
+| Xong | [US-34](https://github.com/dungphanx/personal-workspace/issues/34) Theo dõi cuộn nhựa |
 
 ## Rủi ro
 

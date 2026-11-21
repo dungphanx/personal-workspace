@@ -2,7 +2,7 @@
 
 # Model Crawler
 
-An internal tool that collects popular and unusual 3D-printing models to seed the [PrintLab](../printlab/README.md) catalogue. Python, no browser, results in SQLite with JSON/CSV export. Snapshot 2026-11-16.
+An internal tool that collects popular and unusual 3D-printing models to seed the [PrintLab](../printlab/README.md) catalogue. Python, no browser, results in SQLite with JSON/CSV export. Snapshot 2026-11-22.
 
 ## Sources
 
@@ -17,7 +17,7 @@ Rules: public data only, free models only, rate-limited, no paywall bypass, no r
 
 ## Open items
 
-- Put the tool under version control.
+- Version control started locally (2026-11-18); add a shared remote and review flow.
 - Feed exported data into the PrintLab catalogue.
 - Access for MakerWorld files and MyMiniFactory (depends on PrintLab's public environment for OAuth).
 
