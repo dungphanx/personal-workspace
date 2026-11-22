@@ -2,7 +2,7 @@
 
 # Hoàng Bảo Kim – kế hoạch
 
-Ghi nhận ngày 2026-11-16. Yêu cầu nằm trong các issue được link; trang này chỉ sắp thứ tự. Trang sản phẩm: [README.vi.md](README.vi.md).
+Ghi nhận ngày 2026-11-22. Yêu cầu nằm trong các issue được link; trang này chỉ sắp thứ tự. Trang sản phẩm: [README.vi.md](README.vi.md).
 
 ## Tầm nhìn
 
@@ -25,8 +25,8 @@ Cô dâu chú rể yên tâm đặt tiệc; chủ quán quản lý tiệc, tiề
 | Ưu tiên | Việc |
 | --- | --- |
 | Xong | [US-15](https://github.com/dungphanx/personal-workspace/issues/15) Khách vào site bằng domain riêng (chạy từ 2026-11-14) |
-| P1 | [BUG-16](https://github.com/dungphanx/personal-workspace/issues/16) Thanh tab không căn giữa |
-| P2 | [TASK-17](https://github.com/dungphanx/personal-workspace/issues/17) Commit clip quảng bá mới |
+| Xong | [BUG-16](https://github.com/dungphanx/personal-workspace/issues/16) Thanh tab không căn giữa |
+| Xong | [TASK-17](https://github.com/dungphanx/personal-workspace/issues/17) Commit clip quảng bá mới |
 | P2 | [TASK-18](https://github.com/dungphanx/personal-workspace/issues/18) Quyết định mã QR trên danh thiếp |
 
 ## Rủi ro

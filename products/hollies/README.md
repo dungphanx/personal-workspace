@@ -2,7 +2,7 @@
 
 # Hollies
 
-A personal self-improvement app: see where your time goes, keep a daily top 3, hold reading, exercise and study habits, and get back on track when a day slips. Snapshot 2026-11-17.
+A personal self-improvement app: see where your time goes, keep a daily top 3, hold reading, exercise and study habits, and get back on track when a day slips. Snapshot 2026-11-22.
 
 - **Stack:** one Flutter codebase for Android, iOS and the web; data stays on the device (no account, no sync yet).
 - **Status:** MVP built; the web app is published and can be installed on a phone's home screen. Native store builds not started.

@@ -2,7 +2,7 @@
 
 # Hoang Bao Kim
 
-Website and back office for Hoàng Bảo Kim, a mobile wedding-catering business. Snapshot 2026-11-16.
+Website and back office for Hoàng Bảo Kim, a mobile wedding-catering business. Snapshot 2026-11-22.
 
 - **Stack:** serverless worker with a SQL database at the edge; static pages built into the worker; installable web app with offline queueing.
 - **Status:** live; deployed automatically when the main branch changes.
@@ -19,11 +19,10 @@ Website and back office for Hoàng Bảo Kim, a mobile wedding-catering business
 
 ## Delivered
 
-Redesign, SEO, labor tracking, business cards, own domain, landscape share image for Facebook/Zalo, owner-editable FAQ, faster home page on phones, instant search-engine notification (IndexNow), contact tracking by source, self-hosted fonts and lighter cover images; all deployed.
+Redesign, SEO, labor tracking, business cards, own domain, landscape share image for Facebook/Zalo, owner-editable FAQ, faster home page on phones, instant search-engine notification (IndexNow), contact tracking by source, self-hosted fonts and lighter cover images, centred back-office tab bar, refreshed promo clip (labor and business-card scenes), automated worker tests, security headers (no embedding in other sites, HSTS), a limit of 5 quote requests per visitor in 10 minutes; all deployed.
 
 ## Open items
 
-- Small tab-bar alignment fix and the refreshed promo clip (not committed yet).
 - Decide whether business cards get a QR code.
 
 Plan and prioritised backlog: [plan.md](plan.md).

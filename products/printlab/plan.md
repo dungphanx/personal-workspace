@@ -41,14 +41,14 @@ Ideas researched on 2026-11-20 from other model libraries and printer tools. Mil
 
 | Priority | Item |
 | --- | --- |
-| P1 | [US-29](https://github.com/dungphanx/personal-workspace/issues/29) Export a customised model as 3MF and open it in your own slicer |
+| Done | [US-29](https://github.com/dungphanx/personal-workspace/issues/29) Export a customised model as 3MF and open it in your own slicer (website v0.2.0) |
 | P2 | [US-30](https://github.com/dungphanx/personal-workspace/issues/30) Decide on direct printing to closed-firmware printers (Anycubic Kobra X) |
-| P2 | [US-31](https://github.com/dungphanx/personal-workspace/issues/31) Tested print profiles per printer and filament |
-| P2 | [US-33](https://github.com/dungphanx/personal-workspace/issues/33) Richer studio parameters and user-published parametric models |
-| P2 | [US-35](https://github.com/dungphanx/personal-workspace/issues/35) Print history, queue and cost per print |
-| P2 | [US-36](https://github.com/dungphanx/personal-workspace/issues/36) Getting-started guide and printer setup wizard in the product |
-| Later | [US-32](https://github.com/dungphanx/personal-workspace/issues/32) Remixes and "I made this" photos |
-| Later | [US-34](https://github.com/dungphanx/personal-workspace/issues/34) Filament spool tracking |
+| Done | [US-31](https://github.com/dungphanx/personal-workspace/issues/31) Tested print profiles per printer and filament (website v0.3.0) |
+| P2 | [US-33](https://github.com/dungphanx/personal-workspace/issues/33) Richer studio parameters (done) and user-published parametric models (open) |
+| P2 | [US-35](https://github.com/dungphanx/personal-workspace/issues/35) Print history and cost (done), print queue (open) |
+| Done | [US-36](https://github.com/dungphanx/personal-workspace/issues/36) Getting-started guide and printer setup wizard in the product |
+| Done | [US-32](https://github.com/dungphanx/personal-workspace/issues/32) Remixes and "I made this" photos |
+| Done | [US-34](https://github.com/dungphanx/personal-workspace/issues/34) Filament spool tracking |
 
 ## Risks
 

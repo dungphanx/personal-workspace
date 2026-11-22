@@ -2,7 +2,7 @@
 
 # Hollies
 
-App tự cải thiện bản thân: biết thời gian đi đâu, giữ top 3 mỗi ngày, duy trì thói quen đọc sách, tập thể dục và học, và quay lại nhịp khi một ngày bị trượt. Ghi nhận ngày 2026-11-17.
+App tự cải thiện bản thân: biết thời gian đi đâu, giữ top 3 mỗi ngày, duy trì thói quen đọc sách, tập thể dục và học, và quay lại nhịp khi một ngày bị trượt. Ghi nhận ngày 2026-11-22.
 
 - **Công nghệ:** một codebase Flutter cho Android, iOS và web; dữ liệu nằm trên máy (chưa có tài khoản, chưa đồng bộ).
 - **Trạng thái:** đã có MVP; web app đã phát hành và cài được ra màn hình chính điện thoại. Chưa làm bản lên kho ứng dụng.

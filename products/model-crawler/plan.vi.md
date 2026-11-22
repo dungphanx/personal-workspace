@@ -2,7 +2,7 @@
 
 # Model Crawler – kế hoạch
 
-Ghi nhận ngày 2026-11-16. Yêu cầu nằm trong các issue được link; trang này chỉ sắp thứ tự. Trang sản phẩm: [README.vi.md](README.vi.md).
+Ghi nhận ngày 2026-11-22. Yêu cầu nằm trong các issue được link; trang này chỉ sắp thứ tự. Trang sản phẩm: [README.vi.md](README.vi.md).
 
 ## Tầm nhìn
 

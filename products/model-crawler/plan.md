@@ -2,7 +2,7 @@
 
 # Model Crawler – plan
 
-Snapshot 2026-11-16. Requirements live in the linked issues; this page only orders them. Product page: [README.md](README.md).
+Snapshot 2026-11-22. Requirements live in the linked issues; this page only orders them. Product page: [README.md](README.md).
 
 ## Vision
 

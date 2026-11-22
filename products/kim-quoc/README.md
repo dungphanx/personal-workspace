@@ -2,7 +2,7 @@
 
 # Kim Quoc
 
-Website and back office for Kim Quoc, a roller-shutter installation and repair business. Snapshot 2026-11-16.
+Website and back office for Kim Quoc, a roller-shutter installation and repair business. Snapshot 2026-11-22.
 
 - **Stack:** a single Node server with no external libraries and built-in SQLite; runs in Docker.
 - **Status:** live.
@@ -17,13 +17,11 @@ Website and back office for Kim Quoc, a roller-shutter installation and repair b
 
 ## Delivered
 
-Working process, two hotlines + Facebook, rename to Kim Quoc, one-time-code login, code clean-up, code-based login, guide fixes, README, SEO (sitemap, robots, social cards, structured data, caching), advanced SEO (canonical site address, no-index for private pages, proper 404 page, redirects, service catalogue in structured data, compression), site address passed to the production deployment.
+Working process, two hotlines + Facebook, rename to Kim Quoc, one-time-code login, code clean-up, code-based login, guide fixes, README, SEO (sitemap, robots, social cards, structured data, caching), advanced SEO (canonical site address, no-index for private pages, proper 404 page, redirects, service catalogue in structured data, compression), site address passed to the production deployment, branch coverage about 95%, promo clip scripts, security headers (no embedding in other sites, HSTS), automatic database backups, a limit on booking-form submissions, a page per service with FAQ structured data, service pre-selected in the form when coming from a service page.
 
 ## Open items
 
-- Merge the test-coverage work (branch coverage raised from 73% to 95%).
 - Protect the main branch of the code repository.
-- Commit the vertical promo clip and refresh its notes.
 - Submit the sitemap to Google Search Console; refresh cached social previews.
 
 Plan and prioritised backlog: [plan.md](plan.md).
