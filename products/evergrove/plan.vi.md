@@ -2,7 +2,7 @@
 
 # Evergrove – kế hoạch
 
-Ghi nhận ngày 2026-11-22. Yêu cầu nằm trong các issue được link; trang này chỉ sắp thứ tự. Trang sản phẩm: [README.vi.md](README.vi.md).
+Ghi nhận ngày 2026-11-25. Yêu cầu nằm trong các issue được link; trang này chỉ sắp thứ tự. Trang sản phẩm: [README.vi.md](README.vi.md).
 
 ## Tầm nhìn
 
@@ -34,6 +34,7 @@ Gia đình nào cũng tìm được người thân, nghĩa trang nào cũng qu�
 | P1 | [TASK-6](https://github.com/dungphanx/personal-workspace/issues/6) Đưa bản thử nghiệm lên remote quản lý mã nguồn |
 | P1 | [US-7](https://github.com/dungphanx/personal-workspace/issues/7) Đăng nhập bằng Google hoặc email đã xác minh |
 | P2 | [US-8](https://github.com/dungphanx/personal-workspace/issues/8) Hồ sơ mộ và giữ chỗ trên nền tảng (đề xuất) |
+| P1 | [US-44](https://github.com/dungphanx/personal-workspace/issues/44) Địa chỉ ổn định, luôn chạy cho codebase được chọn ở TASK-5 |
 | P2 | [TASK-9](https://github.com/dungphanx/personal-workspace/issues/9) Khởi tạo web và mobile (đề xuất) |
 | Xong | [TASK-10](https://github.com/dungphanx/personal-workspace/issues/10) Các ADR đầu tiên (7 ADR, 2026-11-18) |
 

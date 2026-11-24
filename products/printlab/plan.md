@@ -2,7 +2,7 @@
 
 # PrintLab – plan
 
-Snapshot 2026-11-20. Requirements live in the linked issues; this page only orders them. Product page: [README.md](README.md).
+Snapshot 2026-11-25. Requirements live in the linked issues; this page only orders them. Product page: [README.md](README.md).
 
 ## Vision
 
@@ -27,6 +27,7 @@ The easiest way to find, customise and print 3D models, from the browser or the 
 | --- | --- |
 | P0 | [US-2](https://github.com/dungphanx/personal-workspace/issues/2) Anyone can use PrintLab on a public HTTPS address |
 | P1 | [TASK-3](https://github.com/dungphanx/personal-workspace/issues/3) Tag releases for components that have none |
+| P1 | [TASK-42](https://github.com/dungphanx/personal-workspace/issues/42) Monitor and back up the public environment |
 
 ### [M2 – Popular catalogue](https://github.com/dungphanx/personal-workspace/milestone/2)
 
@@ -49,6 +50,15 @@ Ideas researched on 2026-11-20 from other model libraries and printer tools. Mil
 | Done | [US-36](https://github.com/dungphanx/personal-workspace/issues/36) Getting-started guide and printer setup wizard in the product |
 | Done | [US-32](https://github.com/dungphanx/personal-workspace/issues/32) Remixes and "I made this" photos |
 | Done | [US-34](https://github.com/dungphanx/personal-workspace/issues/34) Filament spool tracking |
+
+### Later: trust and reach (no milestone yet)
+
+Added on 2026-11-24 from the open items on the product page.
+
+| Priority | Item |
+| --- | --- |
+| P2 | [US-41](https://github.com/dungphanx/personal-workspace/issues/41) New accounts confirm their email before publishing or commenting |
+| Later | [US-43](https://github.com/dungphanx/personal-workspace/issues/43) Install the mobile app from the app stores |
 
 ## Risks
 

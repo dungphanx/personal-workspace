@@ -2,7 +2,7 @@
 
 # PrintLab – kế hoạch
 
-Ghi nhận ngày 2026-11-20. Yêu cầu nằm trong các issue được link; trang này chỉ sắp thứ tự. Trang sản phẩm: [README.vi.md](README.vi.md).
+Ghi nhận ngày 2026-11-25. Yêu cầu nằm trong các issue được link; trang này chỉ sắp thứ tự. Trang sản phẩm: [README.vi.md](README.vi.md).
 
 ## Tầm nhìn
 
@@ -27,6 +27,7 @@ Cách dễ nhất để tìm, tùy chỉnh và in mô hình 3D, từ trình duy�
 | --- | --- |
 | P0 | [US-2](https://github.com/dungphanx/personal-workspace/issues/2) Ai cũng dùng được PrintLab qua địa chỉ HTTPS công khai |
 | P1 | [TASK-3](https://github.com/dungphanx/personal-workspace/issues/3) Tag release cho các thành phần chưa có |
+| P1 | [TASK-42](https://github.com/dungphanx/personal-workspace/issues/42) Theo dõi và backup môi trường public |
 
 ### [M2 – Danh mục phổ biến](https://github.com/dungphanx/personal-workspace/milestone/2)
 
@@ -49,6 +50,15 @@ Cách dễ nhất để tìm, tùy chỉnh và in mô hình 3D, từ trình duy�
 | Xong | [US-36](https://github.com/dungphanx/personal-workspace/issues/36) Hướng dẫn người mới và trình thêm máy in ngay trong sản phẩm |
 | Xong | [US-32](https://github.com/dungphanx/personal-workspace/issues/32) Remix và ảnh "Tôi đã in" |
 | Xong | [US-34](https://github.com/dungphanx/personal-workspace/issues/34) Theo dõi cuộn nhựa |
+
+### Sau này: tin cậy và mở rộng (chưa gắn mốc)
+
+Thêm ngày 2026-11-24 từ các mục còn mở trên trang sản phẩm.
+
+| Ưu tiên | Việc |
+| --- | --- |
+| P2 | [US-41](https://github.com/dungphanx/personal-workspace/issues/41) Tài khoản mới xác nhận email trước khi đăng mẫu hoặc bình luận |
+| Sau | [US-43](https://github.com/dungphanx/personal-workspace/issues/43) Cài app mobile từ kho ứng dụng |
 
 ## Rủi ro
 
