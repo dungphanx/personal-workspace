@@ -2,7 +2,7 @@
 
 # Model Crawler – plan
 
-Snapshot 2026-11-22. Requirements live in the linked issues; this page only orders them. Product page: [README.md](README.md).
+Snapshot 2026-11-25. Requirements live in the linked issues; this page only orders them. Product page: [README.md](README.md).
 
 ## Vision
 
@@ -24,7 +24,9 @@ A steady, rule-abiding feed of great printable models into PrintLab.
 
 | Priority | Item |
 | --- | --- |
-| P1 | [TASK-19](https://github.com/dungphanx/personal-workspace/issues/19) Put under version control |
+| Done | [TASK-19](https://github.com/dungphanx/personal-workspace/issues/19) Put under version control (private remote, 2026-11-24) |
+| P1 | [TASK-48](https://github.com/dungphanx/personal-workspace/issues/48) CI checks and a protected main branch |
+| P2 | [US-49](https://github.com/dungphanx/personal-workspace/issues/49) Refresh popular models on a weekly schedule |
 | P2 | [US-20](https://github.com/dungphanx/personal-workspace/issues/20) PrintLab catalogue seeded from exports (proposal) |
 
 ## Risks

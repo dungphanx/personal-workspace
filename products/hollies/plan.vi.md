@@ -2,7 +2,7 @@
 
 # Hollies – kế hoạch
 
-Ghi nhận ngày 2026-11-22. Backlog chi tiết nằm ở repo riêng (private) của sản phẩm; trang này giữ định hướng ở mức sản phẩm. Trang sản phẩm: [README.vi.md](README.vi.md).
+Ghi nhận ngày 2026-11-25. Backlog chi tiết nằm ở repo riêng (private) của sản phẩm; trang này giữ định hướng ở mức sản phẩm. Trang sản phẩm: [README.vi.md](README.vi.md).
 
 ## Tầm nhìn
 
@@ -24,13 +24,13 @@ Người bạn hằng ngày giúp một người trung thực với thời gian,
 | Mốc | Phạm vi | Trạng thái |
 | --- | --- | --- |
 | M1 – MVP | Ghi thời gian, top 3, thói quen, thống kê, vòng lặp hằng ngày (tự đánh giá, buổi sáng, tổng kết tuần, nhắc nhở), web app | Xong |
-| M2 – Quay lại nhịp | Đổi tên thành Hollies và sửa trải nghiệm (xong), chế độ phục hồi, sửa lỗi nhỏ cho ổn định, xác nhận mục tiêu thói quen | Đang làm |
-| M2b – Thói quen sức khoẻ | Bộ đếm và khoá PIN (xong), so tiến bộ với 4 tuần trước, ghi cân nặng, đưa bộ đếm vào điểm đúng nhịp | Đang làm |
+| M2 – Quay lại nhịp | Đổi tên thành Hollies và sửa trải nghiệm (xong), chế độ phục hồi ([US-51](https://github.com/dungphanx/personal-workspace/issues/51)), sao lưu và khôi phục dữ liệu ([US-50](https://github.com/dungphanx/personal-workspace/issues/50)), sửa lỗi nhỏ cho ổn định, xác nhận mục tiêu thói quen | Đang làm |
+| M2b – Thói quen sức khoẻ | Bộ đếm và khoá PIN (xong), so tiến bộ với 4 tuần trước và ghi cân nặng ([US-52](https://github.com/dungphanx/personal-workspace/issues/52)), đưa bộ đếm vào điểm đúng nhịp | Đang làm |
 | M3 – App native | Mã định danh kho ứng dụng, thông báo thật trên Android và iOS, bản lên kho | Sau này |
 
 ## Rủi ro
 
-- Dữ liệu chỉ nằm trên một thiết bị: mất máy hoặc xoá dữ liệu trình duyệt là mất lịch sử
+- Dữ liệu chỉ nằm trên một thiết bị: mất máy hoặc xoá dữ liệu trình duyệt là mất lịch sử (sao lưu và khôi phục: [US-50](https://github.com/dungphanx/personal-workspace/issues/50))
 
 ## Quyết định còn mở
 

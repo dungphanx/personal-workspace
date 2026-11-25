@@ -2,7 +2,7 @@
 
 # Hoang Bao Kim – plan
 
-Snapshot 2026-11-22. Requirements live in the linked issues; this page only orders them. Product page: [README.md](README.md).
+Snapshot 2026-11-25. Requirements live in the linked issues; this page only orders them. Product page: [README.md](README.md).
 
 ## Vision
 
@@ -28,6 +28,12 @@ Couples book catering with confidence; the owner runs events, staff pay and mark
 | Done | [BUG-16](https://github.com/dungphanx/personal-workspace/issues/16) Tab-bar items not centred |
 | Done | [TASK-17](https://github.com/dungphanx/personal-workspace/issues/17) Commit the refreshed promo clip |
 | P2 | [TASK-18](https://github.com/dungphanx/personal-workspace/issues/18) Decide on a QR code for business cards |
+
+### Next: search reach (no milestone yet)
+
+| Priority | Item |
+| --- | --- |
+| P2 | [US-47](https://github.com/dungphanx/personal-workspace/issues/47) Monthly view of how customers find the site and get in touch |
 
 ## Risks
 

@@ -2,7 +2,7 @@
 
 # Evergrove – plan
 
-Snapshot 2026-11-22. Requirements live in the linked issues; this page only orders them. Product page: [README.md](README.md).
+Snapshot 2026-11-25. Requirements live in the linked issues; this page only orders them. Product page: [README.md](README.md).
 
 ## Vision
 
@@ -34,6 +34,7 @@ Every family can find their loved ones and every cemetery runs its records and r
 | P1 | [TASK-6](https://github.com/dungphanx/personal-workspace/issues/6) Put the prototype under a source-control remote |
 | P1 | [US-7](https://github.com/dungphanx/personal-workspace/issues/7) Sign in with Google or a verified email |
 | P2 | [US-8](https://github.com/dungphanx/personal-workspace/issues/8) Grave records and reservations on the platform (proposal) |
+| P1 | [US-44](https://github.com/dungphanx/personal-workspace/issues/44) Stable, always-on address for the codebase chosen in TASK-5 |
 | P2 | [TASK-9](https://github.com/dungphanx/personal-workspace/issues/9) Initialise web and mobile apps (proposal) |
 | Done | [TASK-10](https://github.com/dungphanx/personal-workspace/issues/10) First architecture decision records (seven ADRs, 2026-11-18) |
 
