@@ -2,18 +2,18 @@
 
 # Progress overview
 
-Snapshot **2026-11-22**. Details on each product page.
+Snapshot **2026-11-26**. Details on each product page.
 
 ## At a glance
 
 | Product | Stage | Recently done | Open |
 | --- | --- | --- | --- |
-| [PrintLab](../products/printlab/README.md) | Built; public environment in progress | 3MF export, print profiles, richer parameters, print history and cost, in-product guide, remixes, filament spools (website v0.3.0, API v0.1.0) | Public environment; user-published models; print queue; tags for identity service and mobile |
+| [PrintLab](../products/printlab/README.md) | Built; public environment in progress | Catalogue seeded from Model Crawler exports (website v0.3.1, API v0.2.0); before that 3MF export, print profiles, print history and cost, remixes, filament spools | Public environment and its monitoring; user-published models; print queue; email confirmation; tags for identity service and mobile |
 | [Evergrove](../products/evergrove/README.md) | Working prototype + platform skeleton | Platform: first seven ADRs. Prototype: 3D visits, password reset, directions, real-time with fallback | Choose which codebase carries the product forward; prototype source-control remote |
-| [Kim Quoc](../products/kim-quoc/README.md) | Live | Coverage ~95%, promo clip, security headers, DB backups, form rate limit, service pages with FAQ | Branch protection; Search Console |
-| [Hoang Bao Kim](../products/hoang-bao-kim/README.md) | Live | Tab bar fixed, refreshed promo clip, automated worker tests, security headers, quote-form rate limit | QR decision |
-| [Model Crawler](../products/model-crawler/README.md) | Internal tool | Local version control started | Shared remote; feed PrintLab catalogue |
-| [Hollies](../products/hollies/README.md) | MVP built; web app published | Renamed to Hollies (live); UX fixes; counters with PIN lock; browser tests in CI | Health habits (progress vs last 4 weeks, weight log); recovery mode; native notifications |
+| [Kim Quoc](../products/kim-quoc/README.md) | Live | Health check and recovery guide for a site-down alert; before that security headers, DB backups, service pages with FAQ | Branch protection; Search Console; outside monitor after deploy; first backup restore test |
+| [Hoang Bao Kim](../products/hoang-bao-kim/README.md) | Live | Tab bar fixed, refreshed promo clip, automated worker tests, security headers, quote-form rate limit | QR decision; monthly view of how customers find the site |
+| [Model Crawler](../products/model-crawler/README.md) | Internal tool | Private shared remote, CI checks, export to the PrintLab catalogue, weekly scheduled refresh | Access for MakerWorld files and MyMiniFactory (after PrintLab's public environment) |
+| [Hollies](../products/hollies/README.md) | MVP built; web app published | Health habits (what is improving vs the last 4 weeks, weight log, counters in the score), recovery mode, phone notifications, backup and restore, reliability fixes | Store builds; habit targets (owner) |
 
 ## Timeline
 
@@ -29,11 +29,14 @@ Snapshot **2026-11-22**. Details on each product page.
 | 2026-11-20 | Kim Quoc: security headers, backups, booking-form limit, service pages with FAQ, service pre-selected in the form. New PrintLab stories researched (US-29 to US-36) |
 | 2026-11-21 | PrintLab: getting-started guide, 3MF export (website v0.2.0). Evergrove prototype: 3D visits, bowing gestures, other visitors |
 | 2026-11-22 | PrintLab: print profiles, richer parameters, print history and cost, in-product guide, remixes, filament spools (website v0.3.0, API v0.1.0) |
+| 2026-11-24 | Hollies: reliability fixes, real app identifier, counters in the score, recovery mode, weight log, what is improving, phone notifications. Model Crawler on a private shared remote. New work items for every product (US-41 to US-52) |
+| 2026-11-25 | PrintLab: catalogue seeded from Model Crawler exports (website v0.3.1, API v0.2.0). Model Crawler: CI checks and a weekly scheduled refresh. Kim Quoc: health check and recovery guide for the site-down alert |
+| 2026-11-26 | Hollies: back up to a file and restore on any device |
 
 ## Decisions waiting for the owner
 
 1. Evergrove: which codebase carries the product forward.
 2. PrintLab: timing of the public environment (small monthly cloud cost).
 3. Hoang Bao Kim: QR code on business cards.
-4. Hollies: habit targets and store app identifiers.
+4. Hollies: habit targets and study details.
 5. PrintLab: direct printing to closed-firmware printers (after the test printer is assembled).

@@ -2,7 +2,7 @@
 
 # Kim Quoc
 
-Website and back office for Kim Quoc, a roller-shutter installation and repair business. Snapshot 2026-11-22.
+Website and back office for Kim Quoc, a roller-shutter installation and repair business. Snapshot 2026-11-26.
 
 - **Stack:** a single Node server with no external libraries and built-in SQLite; runs in Docker.
 - **Status:** live.
@@ -17,11 +17,13 @@ Website and back office for Kim Quoc, a roller-shutter installation and repair b
 
 ## Delivered
 
-Working process, two hotlines + Facebook, rename to Kim Quoc, one-time-code login, code clean-up, code-based login, guide fixes, README, SEO (sitemap, robots, social cards, structured data, caching), advanced SEO (canonical site address, no-index for private pages, proper 404 page, redirects, service catalogue in structured data, compression), site address passed to the production deployment, branch coverage about 95%, promo clip scripts, security headers (no embedding in other sites, HSTS), automatic database backups, a limit on booking-form submissions, a page per service with FAQ structured data, service pre-selected in the form when coming from a service page.
+Working process, two hotlines + Facebook, rename to Kim Quoc, one-time-code login, code clean-up, code-based login, guide fixes, README, SEO (sitemap, robots, social cards, structured data, caching), advanced SEO (canonical site address, no-index for private pages, proper 404 page, redirects, service catalogue in structured data, compression), site address passed to the production deployment, branch coverage about 95%, promo clip scripts, security headers (no embedding in other sites, HSTS), automatic database backups, a limit on booking-form submissions, a page per service with FAQ structured data, service pre-selected in the form when coming from a service page, a health check for outside monitoring and a recovery guide for when the site is down.
 
 ## Open items
 
 - Protect the main branch of the code repository.
 - Submit the sitemap to Google Search Console; refresh cached social previews.
+- Set up the outside monitor that alerts the owner when the site is down (after the next deploy).
+- First restore test of the database backups (2026-12-15).
 
 Plan and prioritised backlog: [plan.md](plan.md).

@@ -2,7 +2,7 @@
 
 # PrintLab – kế hoạch
 
-Ghi nhận ngày 2026-11-25. Yêu cầu nằm trong các issue được link; trang này chỉ sắp thứ tự. Trang sản phẩm: [README.vi.md](README.vi.md).
+Ghi nhận ngày 2026-11-26. Yêu cầu nằm trong các issue được link; trang này chỉ sắp thứ tự. Trang sản phẩm: [README.vi.md](README.vi.md).
 
 ## Tầm nhìn
 
@@ -34,7 +34,7 @@ Cách dễ nhất để tìm, tùy chỉnh và in mô hình 3D, từ trình duy�
 | Ưu tiên | Việc |
 | --- | --- |
 | P2 | [US-4](https://github.com/dungphanx/personal-workspace/issues/4) Mô hình phổ biến từ MyMiniFactory trong danh mục |
-| P2 | [US-20](https://github.com/dungphanx/personal-workspace/issues/20) Danh mục nạp từ dữ liệu Model Crawler (chung với Model Crawler) |
+| Xong | [US-20](https://github.com/dungphanx/personal-workspace/issues/20) Danh mục nạp từ dữ liệu Model Crawler (website v0.3.1, API v0.2.0) |
 
 ### Tiếp theo: quy trình in và cộng đồng (chưa gắn mốc)
 

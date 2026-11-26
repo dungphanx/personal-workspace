@@ -2,7 +2,7 @@
 
 # Model Crawler – kế hoạch
 
-Ghi nhận ngày 2026-11-25. Yêu cầu nằm trong các issue được link; trang này chỉ sắp thứ tự. Trang sản phẩm: [README.vi.md](README.vi.md).
+Ghi nhận ngày 2026-11-26. Yêu cầu nằm trong các issue được link; trang này chỉ sắp thứ tự. Trang sản phẩm: [README.vi.md](README.vi.md).
 
 ## Tầm nhìn
 
@@ -25,9 +25,9 @@ Nguồn mô hình in tốt, đều đặn và đúng luật cho PrintLab.
 | Ưu tiên | Việc |
 | --- | --- |
 | Xong | [TASK-19](https://github.com/dungphanx/personal-workspace/issues/19) Đưa vào quản lý phiên bản (remote private, 2026-11-24) |
-| P1 | [TASK-48](https://github.com/dungphanx/personal-workspace/issues/48) CI kiểm tra và khoá nhánh main |
-| P2 | [US-49](https://github.com/dungphanx/personal-workspace/issues/49) Cập nhật mô hình phổ biến theo lịch hằng tuần |
-| P2 | [US-20](https://github.com/dungphanx/personal-workspace/issues/20) Danh mục PrintLab nạp từ dữ liệu xuất (đề xuất) |
+| Xong | [TASK-48](https://github.com/dungphanx/personal-workspace/issues/48) CI kiểm tra mỗi pull request; main giữ bằng quy ước (2026-11-25) |
+| Xong | [US-49](https://github.com/dungphanx/personal-workspace/issues/49) Cập nhật mô hình phổ biến theo lịch hằng tuần (2026-11-25) |
+| Xong | [US-20](https://github.com/dungphanx/personal-workspace/issues/20) Danh mục PrintLab nạp từ dữ liệu xuất (2026-11-25) |
 
 ## Rủi ro
 
