@@ -2,7 +2,7 @@
 
 # Hoang Bao Kim
 
-Website and back office for Hoàng Bảo Kim, a mobile wedding-catering business. Snapshot 2026-11-22.
+Website and back office for Hoàng Bảo Kim, a mobile wedding-catering business. Snapshot 2026-11-26.
 
 - **Stack:** serverless worker with a SQL database at the edge; static pages built into the worker; installable web app with offline queueing.
 - **Status:** live; deployed automatically when the main branch changes.
@@ -24,5 +24,9 @@ Redesign, SEO, labor tracking, business cards, own domain, landscape share image
 ## Open items
 
 - Decide whether business cards get a QR code.
+- Monthly view of how customers find the site and get in touch (US-47).
+- Weekly database backup and a restore test (TASK-59).
+- Deposits and balances of confirmed weddings on one calendar (US-60), then profit per wedding and per month (US-61).
+- Split the worker into modules (TASK-62).
 
 Plan and prioritised backlog: [plan.md](plan.md).

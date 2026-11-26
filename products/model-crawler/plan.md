@@ -29,6 +29,12 @@ A steady, rule-abiding feed of great printable models into PrintLab.
 | Done | [US-49](https://github.com/dungphanx/personal-workspace/issues/49) Refresh popular models on a weekly schedule (2026-11-25) |
 | Done | [US-20](https://github.com/dungphanx/personal-workspace/issues/20) PrintLab catalogue seeded from exports (2026-11-25) |
 
+### Keep it healthy (no milestone)
+
+| Priority | Item |
+| --- | --- |
+| P1 | [MONITOR-63](https://github.com/dungphanx/personal-workspace/issues/63) Alert the owner when the weekly refresh fails or shrinks |
+
 ## Risks
 
 - Source sites change or block access

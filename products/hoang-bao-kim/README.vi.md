@@ -2,7 +2,7 @@
 
 # Hoàng Bảo Kim
 
-Website và trang quản lý cho Hoàng Bảo Kim, dịch vụ tiệc cưới lưu động. Ghi nhận ngày 2026-11-22.
+Website và trang quản lý cho Hoàng Bảo Kim, dịch vụ tiệc cưới lưu động. Ghi nhận ngày 2026-11-26.
 
 - **Công nghệ:** worker serverless kèm cơ sở dữ liệu SQL ở edge; trang tĩnh được build vào worker; web app cài được, có hàng đợi khi mất mạng.
 - **Trạng thái:** đang chạy thật; tự deploy khi nhánh main thay đổi.
@@ -24,5 +24,9 @@ Thiết kế lại, SEO, tính tiền công, danh thiếp, domain riêng, ảnh 
 ## Việc còn mở
 
 - Quyết định có thêm mã QR vào danh thiếp không.
+- Mỗi tháng xem khách tìm thấy site và liên hệ qua kênh nào (US-47).
+- Sao lưu cơ sở dữ liệu hằng tuần và thử khôi phục (TASK-59).
+- Tiền cọc và số còn nợ của các tiệc đã chốt trên một lịch (US-60), sau đó lãi từng tiệc và từng tháng (US-61).
+- Tách worker thành module (TASK-62).
 
 Kế hoạch và backlog có ưu tiên: [plan.vi.md](plan.vi.md).

@@ -27,9 +27,18 @@ Customers find the shop and book in a minute; the shop runs its jobs from a phon
 | Done | [TASK-11](https://github.com/dungphanx/personal-workspace/issues/11) Merge the branch-coverage work |
 | P0 | [TASK-12](https://github.com/dungphanx/personal-workspace/issues/12) Protect the main branch |
 | P1 | [TASK-13](https://github.com/dungphanx/personal-workspace/issues/13) Search Console and social previews |
-| P1 | [TASK-46](https://github.com/dungphanx/personal-workspace/issues/46) Alert the owner when the site is down (health check and recovery guide merged; external monitor after deploy) |
+| Done | [TASK-46](https://github.com/dungphanx/personal-workspace/issues/46) Alert the owner when the site is down (health check, recovery guide, outside monitor with email alerts, 2026-11-26) |
 | P2 | [MONITOR-45](https://github.com/dungphanx/personal-workspace/issues/45) Restore-test the database backups (first check 2026-12-15) |
 | Done | [TASK-14](https://github.com/dungphanx/personal-workspace/issues/14) Commit the promo clip |
+
+### Next: win more jobs from existing traffic (no milestone yet)
+
+Added on 2026-11-26 after reviewing the back office.
+
+| Priority | Item |
+| --- | --- |
+| P1 | [US-57](https://github.com/dungphanx/personal-workspace/issues/57) Phone notification for every new booking |
+| P2 | [US-58](https://github.com/dungphanx/personal-workspace/issues/58) Returning customers' history and warranties that end soon |
 
 ## Risks
 

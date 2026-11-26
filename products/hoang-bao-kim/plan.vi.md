@@ -2,7 +2,7 @@
 
 # Hoàng Bảo Kim – kế hoạch
 
-Ghi nhận ngày 2026-11-25. Yêu cầu nằm trong các issue được link; trang này chỉ sắp thứ tự. Trang sản phẩm: [README.vi.md](README.vi.md).
+Ghi nhận ngày 2026-11-26. Yêu cầu nằm trong các issue được link; trang này chỉ sắp thứ tự. Trang sản phẩm: [README.vi.md](README.vi.md).
 
 ## Tầm nhìn
 
@@ -34,6 +34,17 @@ Cô dâu chú rể yên tâm đặt tiệc; chủ quán quản lý tiệc, tiề
 | Ưu tiên | Việc |
 | --- | --- |
 | P2 | [US-47](https://github.com/dungphanx/personal-workspace/issues/47) Mỗi tháng xem khách tìm thấy site và liên hệ qua kênh nào |
+
+### Tiếp theo: điều hành việc kinh doanh trong trang quản trị (chưa gắn mốc)
+
+Thêm ngày 2026-11-26 sau khi rà trang quản trị và dữ liệu.
+
+| Ưu tiên | Việc |
+| --- | --- |
+| P1 | [TASK-59](https://github.com/dungphanx/personal-workspace/issues/59) Sao lưu cơ sở dữ liệu hằng tuần và thử khôi phục |
+| P1 | [US-60](https://github.com/dungphanx/personal-workspace/issues/60) Tiền cọc và số còn nợ của các tiệc đã chốt trên một lịch |
+| P2 | [US-61](https://github.com/dungphanx/personal-workspace/issues/61) Lãi của từng tiệc và từng tháng (sau US-60) |
+| P2 | [TASK-62](https://github.com/dungphanx/personal-workspace/issues/62) Tách worker thành module; thôi commit trang được sinh ra (nên làm trước US-60) |
 
 ## Rủi ro
 

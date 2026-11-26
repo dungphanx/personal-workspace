@@ -17,13 +17,14 @@ Website và trang quản lý cho Kim Quốc, cửa hàng lắp đặt và sửa 
 
 ## Đã giao
 
-Quy trình làm việc, hai hotline + Facebook, đổi tên thành Kim Quốc, đăng nhập bằng mã một lần, dọn code, đăng nhập bằng mã, sửa hướng dẫn, README, SEO (sitemap, robots, thẻ chia sẻ, dữ liệu có cấu trúc, cache), SEO nâng cao (địa chỉ site chuẩn, chặn index trang riêng, trang 404 đúng chuẩn, chuyển hướng, danh mục dịch vụ trong dữ liệu có cấu trúc, nén gzip), truyền địa chỉ site vào bản chạy thật, branch coverage khoảng 95%, script dựng clip quảng bá, header bảo mật (chặn nhúng vào site khác, HSTS), sao lưu DB tự động, giới hạn số lần gửi form đặt lịch, trang riêng cho từng dịch vụ kèm dữ liệu hỏi đáp, chọn sẵn dịch vụ trong form khi đi từ trang dịch vụ, kiểm tra sức khoẻ cho giám sát bên ngoài và hướng dẫn khôi phục khi site sập.
+Quy trình làm việc, hai hotline + Facebook, đổi tên thành Kim Quốc, đăng nhập bằng mã một lần, dọn code, đăng nhập bằng mã, sửa hướng dẫn, README, SEO (sitemap, robots, thẻ chia sẻ, dữ liệu có cấu trúc, cache), SEO nâng cao (địa chỉ site chuẩn, chặn index trang riêng, trang 404 đúng chuẩn, chuyển hướng, danh mục dịch vụ trong dữ liệu có cấu trúc, nén gzip), truyền địa chỉ site vào bản chạy thật, branch coverage khoảng 95%, script dựng clip quảng bá, header bảo mật (chặn nhúng vào site khác, HSTS), sao lưu DB tự động, giới hạn số lần gửi form đặt lịch, trang riêng cho từng dịch vụ kèm dữ liệu hỏi đáp, chọn sẵn dịch vụ trong form khi đi từ trang dịch vụ, kiểm tra sức khoẻ kèm monitor bên ngoài gửi email cho chủ shop khi site sập, và hướng dẫn khôi phục.
 
 ## Việc còn mở
 
 - Khóa nhánh main của repo code.
 - Gửi sitemap lên Google Search Console; làm mới preview đã cache trên mạng xã hội.
-- Tạo monitor bên ngoài báo cho chủ shop khi site sập (sau lần deploy tới).
+- Báo về điện thoại mỗi khi có đơn mới (US-57).
+- Lịch sử khách quay lại và bảo hành sắp hết hạn (US-58).
 - Thử khôi phục bản sao lưu DB lần đầu (2026-12-15).
 
 Kế hoạch và backlog có ưu tiên: [plan.vi.md](plan.vi.md).
