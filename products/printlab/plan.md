@@ -23,11 +23,15 @@ The easiest way to find, customise and print 3D models, from the browser or the 
 
 ### [M1 – Public environment](https://github.com/dungphanx/personal-workspace/milestone/1)
 
+PrintLab is the top priority across products since 2026-11-26. Go public first on hosting we already run (US-66), with moderation in place (US-67); the cloud environment (US-2) follows once there are users.
+
 | Priority | Item |
 | --- | --- |
-| P0 | [US-2](https://github.com/dungphanx/personal-workspace/issues/2) Anyone can use PrintLab on a public HTTPS address |
-| P1 | [TASK-3](https://github.com/dungphanx/personal-workspace/issues/3) Tag releases for components that have none |
-| P1 | [TASK-42](https://github.com/dungphanx/personal-workspace/issues/42) Monitor and back up the public environment |
+| P0 | [US-66](https://github.com/dungphanx/personal-workspace/issues/66) Go public now on existing hosting at no extra monthly cost |
+| P0 | [TASK-3](https://github.com/dungphanx/personal-workspace/issues/3) Tag releases for components that have none (US-66 runs released versions only) |
+| P1 | [US-67](https://github.com/dungphanx/personal-workspace/issues/67) Owner reviews reported posts and restores or removes them |
+| P1 | [TASK-42](https://github.com/dungphanx/personal-workspace/issues/42) Monitor and back up the public environment (US-66 covers the first address) |
+| Later | [US-2](https://github.com/dungphanx/personal-workspace/issues/2) Cloud environment, once there are users |
 
 ### [M2 – Popular catalogue](https://github.com/dungphanx/personal-workspace/milestone/2)
 
@@ -51,13 +55,23 @@ Ideas researched on 2026-11-20 from other model libraries and printer tools. Mil
 | Done | [US-32](https://github.com/dungphanx/personal-workspace/issues/32) Remixes and "I made this" photos |
 | Done | [US-34](https://github.com/dungphanx/personal-workspace/issues/34) Filament spool tracking |
 
+### Next: grow and keep users after launch (no milestone yet)
+
+Added on 2026-11-26 when PrintLab became the top priority.
+
+| Priority | Item |
+| --- | --- |
+| P1 | [US-68](https://github.com/dungphanx/personal-workspace/issues/68) Model pages show up in search and preview when shared (after US-66) |
+| P1 | [US-69](https://github.com/dungphanx/personal-workspace/issues/69) Phone notification when a print finishes or fails |
+| P2 | [US-70](https://github.com/dungphanx/personal-workspace/issues/70) Likely causes and fixes when a print is marked failed |
+
 ### Later: trust and reach (no milestone yet)
 
 Added on 2026-11-24 from the open items on the product page.
 
 | Priority | Item |
 | --- | --- |
-| P2 | [US-41](https://github.com/dungphanx/personal-workspace/issues/41) New accounts confirm their email before publishing or commenting |
+| P1 | [US-41](https://github.com/dungphanx/personal-workspace/issues/41) New accounts confirm their email before publishing or commenting |
 | Later | [US-43](https://github.com/dungphanx/personal-workspace/issues/43) Install the mobile app from the app stores |
 
 ## Risks
@@ -67,4 +81,5 @@ Added on 2026-11-24 from the open items on the product page.
 
 ## Open decisions
 
-- Timing of the public environment (owner)
+- Domain for the first public address (owner, US-66)
+- Timing of the cloud environment (owner, US-2; after there are users)

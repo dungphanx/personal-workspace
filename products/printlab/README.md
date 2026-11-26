@@ -46,9 +46,10 @@ The identity service is product-neutral and is reused by [Evergrove](../evergrov
 
 ## Open items
 
-- Finish the public environment; it unblocks the MyMiniFactory integration and real-HTTPS testing of USB printing.
+- Go public now on existing hosting at no extra monthly cost (US-66), with moderation of reported posts (US-67); this unblocks the MyMiniFactory integration, email confirmation and real-HTTPS testing of USB printing. The cloud environment follows once there are users.
+- After launch: model pages in search and shared previews (US-68), phone notifications for finished or failed prints (US-69), help when a print fails (US-70).
 - Tag releases for the identity service and the mobile app (website v0.3.1, API v0.2.0, deploy v0.1.1).
 - Still open from the new stories: user-published parametric models, a print queue, and the decision on closed-firmware printers (waits for the test printer).
-- Later: email verification, Google sign-in on the public environment, publishing the mobile app, a custom domain, monitoring and backups.
+- Later: email verification, Google sign-in on the public address, publishing the mobile app, the cloud environment.
 
 Plan and prioritised backlog: [plan.md](plan.md).

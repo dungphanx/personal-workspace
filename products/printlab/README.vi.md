@@ -46,9 +46,10 @@ Dịch vụ danh tính không gắn với sản phẩm nào và được [Evergr
 
 ## Việc còn mở
 
-- Hoàn tất môi trường public; nó mở khóa tích hợp MyMiniFactory và việc thử in USB trên HTTPS thật.
+- Lên public ngay trên hạ tầng đang có, không tốn thêm chi phí hằng tháng (US-66), kèm kiểm duyệt bài bị báo cáo (US-67); việc này gỡ nghẽn MyMiniFactory, xác nhận email và thử in USB trên HTTPS thật. Môi trường cloud làm sau khi có người dùng.
+- Sau khi lên public: trang mô hình trên tìm kiếm và ảnh xem trước khi chia sẻ (US-68), báo về điện thoại khi bản in xong hoặc lỗi (US-69), hỗ trợ khi bản in lỗi (US-70).
 - Tag release cho dịch vụ danh tính và ứng dụng mobile (website v0.3.1, API v0.2.0, deploy v0.1.1).
 - Còn mở từ các story mới: người dùng đăng mẫu tham số riêng, hàng đợi in, và quyết định về máy in firmware đóng (chờ máy in thử).
-- Sau này: xác minh email, đăng nhập Google trên môi trường public, phát hành app mobile, domain riêng, giám sát và sao lưu.
+- Sau này: xác minh email, đăng nhập Google trên địa chỉ public, phát hành app mobile, môi trường cloud.
 
 Kế hoạch và backlog có ưu tiên: [plan.vi.md](plan.vi.md).
