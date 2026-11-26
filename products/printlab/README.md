@@ -2,7 +2,7 @@
 
 # PrintLab
 
-A platform for 3D-printer users: a parametric model library, 3D preview and customisation, STL download, G-code generation, printing over USB or the network, accounts, sharing, comments, stars and a catalogue of popular models. Snapshot 2026-11-22.
+A platform for 3D-printer users: a parametric model library, 3D preview and customisation, STL download, G-code generation, printing over USB or the network, accounts, sharing, comments, stars and a catalogue of popular models. Snapshot 2026-11-26.
 
 ## Architecture
 
@@ -41,12 +41,13 @@ The identity service is product-neutral and is reused by [Evergrove](../evergrov
 | Print history and cost per print | Released 2026-11-22 (print queue later) |
 | In-product guide and printer setup wizard | Released 2026-11-22 |
 | Remixes and "I made this" posts; filament spool tracking | Released 2026-11-22 |
+| Catalogue seeded from Model Crawler exports, with licences | Released 2026-11-25 (website v0.3.1, API v0.2.0) |
 | **Public environment** (single small cloud node, Kubernetes, automatic HTTPS, deploy from released images) | **In progress** |
 
 ## Open items
 
 - Finish the public environment; it unblocks the MyMiniFactory integration and real-HTTPS testing of USB printing.
-- Tag releases for the identity service and the mobile app (website v0.3.0, API v0.1.0, deploy v0.1.1).
+- Tag releases for the identity service and the mobile app (website v0.3.1, API v0.2.0, deploy v0.1.1).
 - Still open from the new stories: user-published parametric models, a print queue, and the decision on closed-firmware printers (waits for the test printer).
 - Later: email verification, Google sign-in on the public environment, publishing the mobile app, a custom domain, monitoring and backups.
 

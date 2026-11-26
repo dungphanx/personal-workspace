@@ -2,7 +2,7 @@
 
 # PrintLab – plan
 
-Snapshot 2026-11-25. Requirements live in the linked issues; this page only orders them. Product page: [README.md](README.md).
+Snapshot 2026-11-26. Requirements live in the linked issues; this page only orders them. Product page: [README.md](README.md).
 
 ## Vision
 
@@ -34,7 +34,7 @@ The easiest way to find, customise and print 3D models, from the browser or the 
 | Priority | Item |
 | --- | --- |
 | P2 | [US-4](https://github.com/dungphanx/personal-workspace/issues/4) Popular MyMiniFactory models in the catalogue |
-| P2 | [US-20](https://github.com/dungphanx/personal-workspace/issues/20) Catalogue seeded from Model Crawler exports (shared with Model Crawler) |
+| Done | [US-20](https://github.com/dungphanx/personal-workspace/issues/20) Catalogue seeded from Model Crawler exports (website v0.3.1, API v0.2.0) |
 
 ### Next: printing workflow and community (no milestone yet)
 

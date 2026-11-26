@@ -2,7 +2,7 @@
 
 # PrintLab
 
-Nền tảng cho người dùng máy in 3D: thư viện mô hình tham số, xem trước và tùy chỉnh 3D, tải STL, sinh G-code, in qua USB hoặc mạng, tài khoản, chia sẻ, bình luận, gắn sao và danh mục mô hình phổ biến. Ghi nhận ngày 2026-11-22.
+Nền tảng cho người dùng máy in 3D: thư viện mô hình tham số, xem trước và tùy chỉnh 3D, tải STL, sinh G-code, in qua USB hoặc mạng, tài khoản, chia sẻ, bình luận, gắn sao và danh mục mô hình phổ biến. Ghi nhận ngày 2026-11-26.
 
 ## Kiến trúc
 
@@ -41,12 +41,13 @@ Dịch vụ danh tính không gắn với sản phẩm nào và được [Evergr
 | Lịch sử in và chi phí mỗi bản in | Released 2026-11-22 (hàng đợi in làm sau) |
 | Hướng dẫn ngay trong sản phẩm và trình thêm máy in | Released 2026-11-22 |
 | Remix và bài "Tôi đã in"; theo dõi cuộn nhựa | Released 2026-11-22 |
+| Danh mục nạp từ dữ liệu Model Crawler, kèm giấy phép | Released 2026-11-25 (website v0.3.1, API v0.2.0) |
 | **Môi trường public** (một node cloud nhỏ, Kubernetes, HTTPS tự động, deploy từ image đã release) | **Đang làm** |
 
 ## Việc còn mở
 
 - Hoàn tất môi trường public; nó mở khóa tích hợp MyMiniFactory và việc thử in USB trên HTTPS thật.
-- Tag release cho dịch vụ danh tính và ứng dụng mobile (website v0.3.0, API v0.1.0, deploy v0.1.1).
+- Tag release cho dịch vụ danh tính và ứng dụng mobile (website v0.3.1, API v0.2.0, deploy v0.1.1).
 - Còn mở từ các story mới: người dùng đăng mẫu tham số riêng, hàng đợi in, và quyết định về máy in firmware đóng (chờ máy in thử).
 - Sau này: xác minh email, đăng nhập Google trên môi trường public, phát hành app mobile, domain riêng, giám sát và sao lưu.
 
