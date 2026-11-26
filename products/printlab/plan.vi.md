@@ -23,11 +23,15 @@ Cách dễ nhất để tìm, tùy chỉnh và in mô hình 3D, từ trình duy�
 
 ### [M1 – Môi trường public](https://github.com/dungphanx/personal-workspace/milestone/1)
 
+Từ 2026-11-26 PrintLab là ưu tiên số một giữa các sản phẩm. Lên public trước trên hạ tầng đang có (US-66), có sẵn kiểm duyệt (US-67); môi trường cloud (US-2) làm sau khi có người dùng.
+
 | Ưu tiên | Việc |
 | --- | --- |
-| P0 | [US-2](https://github.com/dungphanx/personal-workspace/issues/2) Ai cũng dùng được PrintLab qua địa chỉ HTTPS công khai |
-| P1 | [TASK-3](https://github.com/dungphanx/personal-workspace/issues/3) Tag release cho các thành phần chưa có |
-| P1 | [TASK-42](https://github.com/dungphanx/personal-workspace/issues/42) Theo dõi và backup môi trường public |
+| P0 | [US-66](https://github.com/dungphanx/personal-workspace/issues/66) Lên public ngay trên hạ tầng đang có, không tốn thêm chi phí hằng tháng |
+| P0 | [TASK-3](https://github.com/dungphanx/personal-workspace/issues/3) Tag release cho các thành phần chưa có (US-66 chỉ chạy bản đã release) |
+| P1 | [US-67](https://github.com/dungphanx/personal-workspace/issues/67) Chủ sở hữu xem bài bị báo cáo, khôi phục hoặc gỡ |
+| P1 | [TASK-42](https://github.com/dungphanx/personal-workspace/issues/42) Theo dõi và backup môi trường public (US-66 lo cho địa chỉ đầu tiên) |
+| Sau | [US-2](https://github.com/dungphanx/personal-workspace/issues/2) Môi trường cloud, khi đã có người dùng |
 
 ### [M2 – Danh mục phổ biến](https://github.com/dungphanx/personal-workspace/milestone/2)
 
@@ -51,13 +55,23 @@ Cách dễ nhất để tìm, tùy chỉnh và in mô hình 3D, từ trình duy�
 | Xong | [US-32](https://github.com/dungphanx/personal-workspace/issues/32) Remix và ảnh "Tôi đã in" |
 | Xong | [US-34](https://github.com/dungphanx/personal-workspace/issues/34) Theo dõi cuộn nhựa |
 
+### Tiếp theo: thu hút và giữ người dùng sau khi lên public (chưa gắn mốc)
+
+Thêm ngày 2026-11-26 khi PrintLab thành ưu tiên số một.
+
+| Ưu tiên | Việc |
+| --- | --- |
+| P1 | [US-68](https://github.com/dungphanx/personal-workspace/issues/68) Trang mô hình hiện trên tìm kiếm và có ảnh xem trước khi chia sẻ (sau US-66) |
+| P1 | [US-69](https://github.com/dungphanx/personal-workspace/issues/69) Báo về điện thoại khi bản in xong hoặc lỗi |
+| P2 | [US-70](https://github.com/dungphanx/personal-workspace/issues/70) Gợi ý nguyên nhân và cách sửa khi đánh dấu bản in lỗi |
+
 ### Sau này: tin cậy và mở rộng (chưa gắn mốc)
 
 Thêm ngày 2026-11-24 từ các mục còn mở trên trang sản phẩm.
 
 | Ưu tiên | Việc |
 | --- | --- |
-| P2 | [US-41](https://github.com/dungphanx/personal-workspace/issues/41) Tài khoản mới xác nhận email trước khi đăng mẫu hoặc bình luận |
+| P1 | [US-41](https://github.com/dungphanx/personal-workspace/issues/41) Tài khoản mới xác nhận email trước khi đăng mẫu hoặc bình luận |
 | Sau | [US-43](https://github.com/dungphanx/personal-workspace/issues/43) Cài app mobile từ kho ứng dụng |
 
 ## Rủi ro
@@ -67,4 +81,5 @@ Thêm ngày 2026-11-24 từ các mục còn mở trên trang sản phẩm.
 
 ## Quyết định còn mở
 
-- Thời điểm làm môi trường public (chủ quyết)
+- Tên miền cho địa chỉ public đầu tiên (chủ quyết, US-66)
+- Thời điểm làm môi trường cloud (chủ quyết, US-2; sau khi có người dùng)
