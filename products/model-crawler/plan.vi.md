@@ -29,6 +29,12 @@ Nguồn mô hình in tốt, đều đặn và đúng luật cho PrintLab.
 | Xong | [US-49](https://github.com/dungphanx/personal-workspace/issues/49) Cập nhật mô hình phổ biến theo lịch hằng tuần (2026-11-25) |
 | Xong | [US-20](https://github.com/dungphanx/personal-workspace/issues/20) Danh mục PrintLab nạp từ dữ liệu xuất (2026-11-25) |
 
+### Giữ cho chạy ổn (không gắn mốc)
+
+| Ưu tiên | Việc |
+| --- | --- |
+| P1 | [MONITOR-63](https://github.com/dungphanx/personal-workspace/issues/63) Báo cho chủ sở hữu khi lần cập nhật hằng tuần lỗi hoặc ít hẳn đi |
+
 ## Rủi ro
 
 - Trang nguồn thay đổi hoặc chặn truy cập
