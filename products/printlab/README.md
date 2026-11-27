@@ -2,7 +2,7 @@
 
 # PrintLab
 
-A platform for 3D-printer users: a parametric model library, 3D preview and customisation, STL download, G-code generation, printing over USB or the network, accounts, sharing, comments, stars and a catalogue of popular models. Snapshot 2026-11-26.
+A platform for 3D-printer users: a parametric model library, 3D preview and customisation, STL download, G-code generation, printing over USB or the network, accounts, sharing, comments, stars and a catalogue of popular models. Snapshot 2026-11-28.
 
 ## Architecture
 
@@ -38,18 +38,21 @@ The identity service is product-neutral and is reused by [Evergrove](../evergrov
 | Getting-started guide for first-time printer owners | Released 2026-11-21 |
 | Export a customised model as 3MF for your own slicer | Released 2026-11-21 (website v0.2.0) |
 | Tested print profiles per printer and filament; richer studio parameters | Released 2026-11-22 (website v0.3.0, API v0.1.0) |
-| Print history and cost per print | Released 2026-11-22 (print queue later) |
+| Print history and cost per print | Released 2026-11-22 (print queue dropped 2026-11-28) |
 | In-product guide and printer setup wizard | Released 2026-11-22 |
 | Remixes and "I made this" posts; filament spool tracking | Released 2026-11-22 |
 | Catalogue seeded from Model Crawler exports, with licences | Released 2026-11-25 (website v0.3.1, API v0.2.0) |
-| **Public environment** (single small cloud node, Kubernetes, automatic HTTPS, deploy from released images) | **In progress** |
+| Public on existing hosting, with moderation of reported posts | Live since 2026-11-26 (monitoring and backups open) |
+| Model pages in search and shared previews; phone notifications for finished or failed prints; help when a print fails | Released 2026-11-27 and 2026-11-28 |
+| **Public environment** (single small cloud node, Kubernetes, automatic HTTPS, deploy from released images) | Later, once there are users |
 
 ## Open items
 
-- Go public now on existing hosting at no extra monthly cost (US-66), with moderation of reported posts (US-67); this unblocks the MyMiniFactory integration, email confirmation and real-HTTPS testing of USB printing. The cloud environment follows once there are users.
-- After launch: model pages in search and shared previews (US-68), phone notifications for finished or failed prints (US-69), help when a print fails (US-70).
-- Tag releases for the identity service and the mobile app (website v0.3.1, API v0.2.0, deploy v0.1.1).
-- Still open from the new stories: user-published parametric models, a print queue, and the decision on closed-firmware printers (waits for the test printer).
-- Later: email verification, Google sign-in on the public address, publishing the mobile app, the cloud environment.
+Since 2026-11-28 PrintLab focuses on content (models, guides, learning material, community posts, search) instead of printer control: the printer makers' own apps already handle printing well. Shipped printer features stay and get fixes, but no new work.
+
+- Now: step-by-step guides (US-75), one consistent brand starting with the favicon (TASK-77), search for guides and collections (US-76), email confirmation before community posts (US-41).
+- Next: model collections (US-78), material guides (US-79), community build logs (US-80), richer model pages (US-81), MyMiniFactory models (US-4); monitoring and backups (TASK-42).
+- Later: monthly digest (US-82), content analytics (US-83), the cloud environment. Deferred: user-published parametric models (US-33), the mobile app in the stores (US-43).
+- Closed: the print queue (US-35) and direct printing to closed-firmware printers (US-30).
 
 Plan and prioritised backlog: [plan.md](plan.md).
