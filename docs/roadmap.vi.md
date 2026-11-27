@@ -17,7 +17,7 @@ Ghi nhận ngày 2026-11-28. Bây giờ = đang làm hoặc làm ngay; Tiếp th
 
 | Sản phẩm | Việc |
 | --- | --- |
-| PrintLab | [US-78](https://github.com/dungphanx/personal-workspace/issues/78) bộ sưu tập mẫu; [US-79](https://github.com/dungphanx/personal-workspace/issues/79) hướng dẫn vật liệu; [US-80](https://github.com/dungphanx/personal-workspace/issues/80) nhật ký in của cộng đồng; [US-81](https://github.com/dungphanx/personal-workspace/issues/81) trang mẫu nhiều thông tin hơn; [US-4](https://github.com/dungphanx/personal-workspace/issues/4) danh mục MyMiniFactory; [TASK-42](https://github.com/dungphanx/personal-workspace/issues/42) giám sát và sao lưu |
+| PrintLab | [US-78](https://github.com/dungphanx/personal-workspace/issues/78) bộ sưu tập mẫu; [US-79](https://github.com/dungphanx/personal-workspace/issues/79) hướng dẫn vật liệu; [US-80](https://github.com/dungphanx/personal-workspace/issues/80) nhật ký in của cộng đồng; [US-81](https://github.com/dungphanx/personal-workspace/issues/81) trang mẫu nhiều thông tin hơn; [US-4](https://github.com/dungphanx/personal-workspace/issues/4) danh mục MyMiniFactory; [TASK-42](https://github.com/dungphanx/personal-workspace/issues/42) giám sát và sao lưu; [TASK-3](https://github.com/dungphanx/personal-workspace/issues/3) tag release |
 | Evergrove | [US-44](https://github.com/dungphanx/personal-workspace/issues/44) Địa chỉ ổn định, chạy liên tục; [TASK-6](https://github.com/dungphanx/personal-workspace/issues/6) đưa bản thử nghiệm lên remote quản lý mã nguồn; [US-7](https://github.com/dungphanx/personal-workspace/issues/7) Đăng nhập Google / email đã xác minh |
 | Kim Quốc | [MONITOR-45](https://github.com/dungphanx/personal-workspace/issues/45) Thử khôi phục bản sao lưu DB lần đầu (2026-12-15) |
 | Hoàng Bảo Kim | [US-47](https://github.com/dungphanx/personal-workspace/issues/47) Báo cáo hằng tháng khách tìm đến site và liên hệ thế nào |
@@ -29,7 +29,7 @@ Ghi nhận ngày 2026-11-28. Bây giờ = đang làm hoặc làm ngay; Tiếp th
 | PrintLab | [US-82](https://github.com/dungphanx/personal-workspace/issues/82) email tóm tắt hằng tháng; [US-83](https://github.com/dungphanx/personal-workspace/issues/83) thống kê nội dung | Kho hướng dẫn và bộ sưu tập đã chạy; chi phí email được duyệt (US-82) |
 | PrintLab | [US-2](https://github.com/dungphanx/personal-workspace/issues/2) Môi trường cloud | Có người dùng trên địa chỉ public đầu tiên |
 | PrintLab | [US-33](https://github.com/dungphanx/personal-workspace/issues/33) người dùng đăng mẫu tham số; [US-43](https://github.com/dungphanx/personal-workspace/issues/43) app mobile trên kho ứng dụng (cả hai hoãn) | Phần nội dung đã chạy; app cần có giá trị nội dung trước |
-| Model Crawler | Quyền tải file MakerWorld và MyMiniFactory | Môi trường public của PrintLab (OAuth) |
+| Model Crawler | Quyền tải file MakerWorld và MyMiniFactory | Đăng ký OAuth app MyMiniFactory (PrintLab US-4) |
 | Evergrove | [US-8](https://github.com/dungphanx/personal-workspace/issues/8) Hồ sơ mộ và giữ chỗ trên nền tảng, [TASK-9](https://github.com/dungphanx/personal-workspace/issues/9) web và mobile | Quyết định codebase |
 | Hoàng Bảo Kim | [TASK-18](https://github.com/dungphanx/personal-workspace/issues/18) QR trên danh thiếp | Chủ quyết |
 | Hollies | Xác nhận mục tiêu thói quen và thông tin việc học | Chủ quyết |
